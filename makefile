@@ -1,2 +1,6 @@
-latexmk -C
-pdflatex tese.pdf
+clean:
+	latexmk -C
+
+build:
+	pdflatex tese.tex
+	echo "Completed !!!"

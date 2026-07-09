@@ -1,0 +1,1764 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.5.1)  2 JUN 2026 21:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/riseghost/LegionStorage/Relatório - Mst/DissertacaoLatex/tese.tex"
+(/home/riseghost/LegionStorage/Relatório - Mst/DissertacaoLatex/tese.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (./tese_new.sty) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/01/18 v26.1 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count284
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen149
+\l@unhyphenated=\language90
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count285
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/invalid/babel-portuges.tex)
+
+Package babel Warning: Name 'portuges' is deprecated.
+(babel)                Use 'portuguese' instead.
+(babel)                Reported on input line 4330.
+
+Package babel Info: Importing font and identification data for portuges
+(babel)             from babel-pt.ini. Reported on input line 4330.
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Making " an active character on input line 143.
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count286
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box53
+\rot@mess@toks=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count287
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count288
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count292
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen153
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip53
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count299
+\c@ALC@line=\count300
+\c@ALC@rem=\count301
+\c@ALC@depth=\count302
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen168
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count307
+\float@exts=\toks22
+\float@box=\box54
+\@float@everytoks=\toks23
+\@floatcapt=\box55
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count308
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen169
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen170
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count309
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count310
+\leftroot@=\count311
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count312
+\DOTSCASE@=\count313
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen171
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count314
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count315
+\dotsspace@=\muskip18
+\c@parentequation=\count316
+\dspbrk@lvl=\count317
+\tag@help=\toks26
+\row@=\count318
+\column@=\count319
+\maxfields@=\count320
+\andhelp@=\toks27
+\eqnshift@=\dimen172
+\alignsep@=\dimen173
+\tagshift@=\dimen174
+\tagwidth@=\dimen175
+\totwidth@=\dimen176
+\lineht@=\dimen177
+\@envbody=\toks28
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip59
+\f@nch@offset@elh=\skip60
+\f@nch@offset@erh=\skip61
+\f@nch@offset@olh=\skip62
+\f@nch@offset@orh=\skip63
+\f@nch@offset@elf=\skip64
+\f@nch@offset@erf=\skip65
+\f@nch@offset@olf=\skip66
+\f@nch@offset@orf=\skip67
+\f@nch@height=\skip68
+\f@nch@footalignment=\skip69
+\f@nch@widthL=\skip70
+\f@nch@widthC=\skip71
+\f@nch@widthR=\skip72
+\@temptokenb=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 116.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count321
+ (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count322
+\c@listtotal=\count323
+\c@listcount=\count324
+\c@liststart=\count325
+\c@liststop=\count326
+\c@citecount=\count327
+\c@citetotal=\count328
+\c@multicitecount=\count329
+\c@multicitetotal=\count330
+\c@instcount=\count331
+\c@maxnames=\count332
+\c@minnames=\count333
+\c@maxitems=\count334
+\c@minitems=\count335
+\c@citecounter=\count336
+\c@maxcitecounter=\count337
+\c@savedcitecounter=\count338
+\c@uniquelist=\count339
+\c@uniquename=\count340
+\c@refsection=\count341
+\c@refsegment=\count342
+\c@maxextratitle=\count343
+\c@maxextratitleyear=\count344
+\c@maxextraname=\count345
+\c@maxextradate=\count346
+\c@maxextraalpha=\count347
+\c@abbrvpenalty=\count348
+\c@highnamepenalty=\count349
+\c@lownamepenalty=\count350
+\c@maxparens=\count351
+\c@parenlevel=\count352
+\blx@tempcnta=\count353
+\blx@tempcntb=\count354
+\blx@tempcntc=\count355
+\c@blx@maxsection=\count356
+\blx@maxsegment@0=\count357
+\blx@notetype=\count358
+\blx@parenlevel@text=\count359
+\blx@parenlevel@foot=\count360
+\blx@sectionciteorder@0=\count361
+\blx@sectionciteorderinternal@0=\count362
+\blx@entrysetcounter=\count363
+\blx@biblioinstance=\count364
+\labelnumberwidth=\skip73
+\labelalphawidth=\skip74
+\biblabelsep=\skip75
+\bibitemsep=\skip76
+\bibnamesep=\skip77
+\bibinitsep=\skip78
+\bibparsep=\skip79
+\bibhang=\skip80
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language91
+\c@mincomprange=\count365
+\c@maxcomprange=\count366
+\c@mincompwidth=\count367
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count368
+\c@savedafterword=\count369
+\c@annotator=\count370
+\c@savedannotator=\count371
+\c@author=\count372
+\c@savedauthor=\count373
+\c@bookauthor=\count374
+\c@savedbookauthor=\count375
+\c@commentator=\count376
+\c@savedcommentator=\count377
+\c@editor=\count378
+\c@savededitor=\count379
+\c@editora=\count380
+\c@savededitora=\count381
+\c@editorb=\count382
+\c@savededitorb=\count383
+\c@editorc=\count384
+\c@savededitorc=\count385
+\c@foreword=\count386
+\c@savedforeword=\count387
+\c@holder=\count388
+\c@savedholder=\count389
+\c@introduction=\count390
+\c@savedintroduction=\count391
+\c@namea=\count392
+\c@savednamea=\count393
+\c@nameb=\count394
+\c@savednameb=\count395
+\c@namec=\count396
+\c@savednamec=\count397
+\c@translator=\count398
+\c@savedtranslator=\count399
+\c@shortauthor=\count400
+\c@savedshortauthor=\count401
+\c@shorteditor=\count402
+\c@savedshorteditor=\count403
+\c@narrator=\count404
+\c@savednarrator=\count405
+\c@execproducer=\count406
+\c@savedexecproducer=\count407
+\c@execdirector=\count408
+\c@savedexecdirector=\count409
+\c@with=\count410
+\c@savedwith=\count411
+\c@labelname=\count412
+\c@savedlabelname=\count413
+\c@institution=\count414
+\c@savedinstitution=\count415
+\c@lista=\count416
+\c@savedlista=\count417
+\c@listb=\count418
+\c@savedlistb=\count419
+\c@listc=\count420
+\c@savedlistc=\count421
+\c@listd=\count422
+\c@savedlistd=\count423
+\c@liste=\count424
+\c@savedliste=\count425
+\c@listf=\count426
+\c@savedlistf=\count427
+\c@location=\count428
+\c@savedlocation=\count429
+\c@organization=\count430
+\c@savedorganization=\count431
+\c@origlocation=\count432
+\c@savedoriglocation=\count433
+\c@origpublisher=\count434
+\c@savedorigpublisher=\count435
+\c@publisher=\count436
+\c@savedpublisher=\count437
+\c@language=\count438
+\c@savedlanguage=\count439
+\c@origlanguage=\count440
+\c@savedoriglanguage=\count441
+\c@citation=\count442
+\c@savedcitation=\count443
+\c@pageref=\count444
+\c@savedpageref=\count445
+\shorthandwidth=\skip81
+\shortjournalwidth=\skip82
+\shortserieswidth=\skip83
+\shorttitlewidth=\skip84
+\shortauthorwidth=\skip85
+\shorteditorwidth=\skip86
+\locallabelnumberwidth=\skip87
+\locallabelalphawidth=\skip88
+\localshorthandwidth=\skip89
+\localshortjournalwidth=\skip90
+\localshortserieswidth=\skip91
+\localshorttitlewidth=\skip92
+\localshortauthorwidth=\skip93
+\localshorteditorwidth=\skip94
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count446
+\c@textcitetotal=\count447
+\c@textcitemaxnames=\count448
+\c@biburlbigbreakpenalty=\count449
+\c@biburlbreakpenalty=\count450
+\c@biburlnumpenalty=\count451
+\c@biburlucpenalty=\count452
+\c@biburllcpenalty=\count453
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count454
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count455
+\c@bbx:relatedtotal=\count456
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count457
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2026-01-19 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+)) (/usr/share/texlive/texmf-dist/tex/latex/iwona/iwona.sty
+Package: iwona 2005/10/03 v.1.2 Iwona package (MW)
+\c@mv@iwona=\count458
+\c@mv@iwonabold=\count459
+LaTeX Font Info:    Overwriting symbol font `operators' in version `iwona'
+(Font)                  OT1/cmr/m/n --> OT1/iwonam/m/n on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `iwona'
+(Font)                  OML/cmm/m/it --> OML/iwona/m/it on input line 59.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `iwona'
+(Font)                  OMS/cmsy/m/n --> OMS/iwona/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `iwona'
+(Font)                  OMX/cmex/m/n --> OMX/iwona/m/n on input line 61.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `iwonabold'
+(Font)                  OT1/cmr/m/n --> OT1/iwonam/b/n on input line 62.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `iwonabold'
+(Font)                  OML/cmm/m/it --> OML/iwona/b/it on input line 63.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `iwonabold'
+(Font)                  OMS/cmsy/m/n --> OMS/iwona/b/n on input line 64.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `iwonabold'
+(Font)                  OMX/cmex/m/n --> OMX/iwona/b/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `iwona'
+(Font)                  OT1/cmr/bx/n --> OT1/iwona/bx/n on input line 67.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `iwona'
+(Font)                  OT1/cmss/m/n --> OT1/iwona/m/n on input line 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `iwona'
+(Font)                  OT1/cmr/m/it --> OT1/iwona/m/it on input line 69.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `iwona'
+(Font)                  OT1/cmtt/m/n --> OT1/iwona/m/n on input line 70.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `iwonabold'
+(Font)                  OT1/cmss/m/n --> OT1/iwona/bx/n on input line 71.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `iwonabold'
+(Font)                  OT1/cmr/m/it --> OT1/iwona/bx/it on input line 72.
+) (/usr/share/texlive/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
+ (/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\xs_counta=\count460
+\xs_countb=\count461
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+\AC@clearlist=\toks31
+) (/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen178
+\WF@size=\dimen179
+\c@WF@wrappedlines=\count462
+\WF@box=\box58
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen180
+\captionmargin=\dimen181
+\caption@leftmargin=\dimen182
+\caption@rightmargin=\dimen183
+\caption@width=\dimen184
+\caption@indent=\dimen185
+\caption@parindent=\dimen186
+\caption@hangindent=\dimen187
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count463
+\c@continuedfloat=\count464
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks33
+\verbatim@line=\toks34
+\verbatim@in@stream=\read4
+) (/usr/share/texlive/texmf-dist/tex/latex/semantic/semantic.sty
+Package: semantic 2003/10/28 v2.0(epsilon) 
+
+Semantic Package v2.0(epsilon) [2003/10/28]
+CVSId: $Id: semantic.dtx,v 1.11 2003/10/28 13:45:57 turtle Exp $
+\c@@@conflict=\count465
+Loading features: 
+(/usr/share/texlive/texmf-dist/tex/latex/semantic/ligature.sty
+\@pushedtoks=\toks35
+\@seentoks=\toks36
+)  math mode ligatures, (/usr/share/texlive/texmf-dist/tex/latex/semantic/infernce.sty
+\@@tempa=\toks37
+\@@tempb=\toks38
+\@@pSpace=\skip95
+\@@pEnd=\skip96
+\@@nSpace=\skip97
+\@@aLineBox=\box59
+)  inference rules, (/usr/share/texlive/texmf-dist/tex/latex/semantic/tdiagram.sty
+\@@xShift=\count466
+\@@yShift=\count467
+\@@symbol=\toks39
+\@@tempSymbol=\toks40
+)  T diagrams, (/usr/share/texlive/texmf-dist/tex/latex/semantic/reserved.sty
+\@@spacing=\toks41
+\@@formating=\toks42
+)  reserved words, (/usr/share/texlive/texmf-dist/tex/latex/semantic/shrthand.sty)  short hands,
+and general definitions.
+
+\@@maxwidth=\dimen188
+\@@pLineBox=\box60
+\@@cBox=\box61
+\@@pBox=\box62
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count468
+\lst@gtempboxa=\box63
+\lst@token=\toks43
+\lst@length=\count469
+\lst@currlwidth=\dimen189
+\lst@column=\count470
+\lst@pos=\count471
+\lst@lostspace=\dimen190
+\lst@width=\dimen191
+\lst@newlines=\count472
+\lst@lineno=\count473
+\lst@maxwidth=\dimen192
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count474
+\lst@skipnumbers=\count475
+\lst@framebox=\box64
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count476
+\calc@Bcount=\count477
+\calc@Adimen=\dimen193
+\calc@Bdimen=\dimen194
+\calc@Askip=\skip98
+\calc@Bskip=\skip99
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count478
+\calc@Cskip=\skip100
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen195
+\ESO@tempdimb=\dimen196
+)
+\AM@pagewidth=\dimen197
+\AM@pageheight=\dimen198
+\AM@fboxrule=\dimen199
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count479
+\AM@pagebox=\box65
+\AM@global@opts=\toks44
+\AM@pagecnt=\count480
+\AM@toc@title=\toks45
+\AM@lof@heading=\toks46
+\c@AM@survey=\count481
+\AM@templatesizebox=\box66
+) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count482
+\c@@ppsavesec=\count483
+\c@@ppsaveapp=\count484
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count485
+\mult@box=\box67
+\multicol@leftmargin=\dimen256
+\c@unbalance=\count486
+\c@collectmore=\count487
+\doublecol@number=\count488
+\multicoltolerance=\count489
+\multicolpretolerance=\count490
+\full@width=\dimen257
+\page@free=\dimen258
+\premulticols=\dimen259
+\postmulticols=\dimen260
+\multicolsep=\skip101
+\multicolbaselineskip=\skip102
+\partial@page=\box68
+\last@line=\box69
+\mc@boxedresult=\box70
+\maxbalancingoverflow=\dimen261
+\mult@rightbox=\box71
+\mult@grightbox=\box72
+\mult@firstbox=\box73
+\mult@gfirstbox=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\c@minrows=\count491
+\c@columnbadness=\count492
+\c@finalcolumnbadness=\count493
+\last@try=\dimen262
+\multicolovershoot=\dimen263
+\multicolundershoot=\dimen264
+\mult@nat@firstbox=\box111
+\colbreak@box=\box112
+\mc@col@check@num=\count494
+\g__mc_curr_col_int=\count495
+) (/usr/share/texlive/texmf-dist/tex/latex/media9/media9.sty
+Package: media9 2025/06/24 v1.30 acrobat-9/X compatible media
+\g_mix_pkgresizeflag_int=\count496
+ (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+Package: pdfbase 2024/09/16 v0.59 driver independent access to low-level PDF features
+\g_pbs_page_int=\count497
+\g_pbs_oc_int=\count498
+) (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2024/09/15 v0.24 support package for ocgx2.sty
+)
+\l_mix_poster_box=\box113
+\g_mix_wd_dim=\dimen265
+\g_mix_ht_dim=\dimen266
+\g_mix_dp_dim=\dimen267
+\g_mix_rmcnt_int=\count499
+\l_mix_viewcnt_int=\count500
+\g@mix@page@int=\count501
+\g_mix_resizeflag_int=\count502
+\l_mix_lineno_int=\count503
+\l_mix_pbtn_box=\box114
+\g_mix_mbtncnt_int=\count504
+\mix@btn@dim=\dimen268
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip103
+\multirow@cntb=\count505
+\multirow@dima=\skip104
+\bigstrutjot=\dimen269
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count506
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count507
+)
+\@indexfile=\write4
+\openout4 = `tese.idx'.
+
+
+Writing index file tese.idx
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count508
+\@quotereset=\count509
+LaTeX Font Info:    Trying to load font information for T1+iwona on input line 58.
+(/usr/share/texlive/texmf-dist/tex/latex/iwona/t1iwona.fd
+File: t1iwona.fd 2008/07/22 v0.995 font definition file for T1/iwona (MW)
+) (./tese.aux (./firstpage.aux)
+Package babel Info: 'portuges' activates 'portuges' shorthands.
+(babel)             Reported on input line 14.
+ (./Declaration.aux) (./agradecimentos.aux) (./resumo.aux) (./abstract.aux) (./capitulo1.aux) (./capitulo2.aux) (./capitulo3.aux) (./capitulo4.aux) (./capitulo5.aux) (./capitulo6.aux))
+\openout1 = `tese.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count510
+\scratchdimen=\dimen270
+\scratchbox=\box115
+\nofMPsegments=\count511
+\nofMParguments=\count512
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count513
+\MPscratchDim=\dimen271
+\MPnumerator=\count514
+\makeMPintoPDFobject=\count515
+\everyMPtoPDFconversion=\toks48
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 58.
+ (./tese.out) (./tese.out)
+\@outlinefile=\write5
+\openout5 = `tese.out'.
+
+
+
+Package biblatex Warning: File 'portuges-apa.lbx' not found!
+(biblatex)                Ignoring mapping 'portuges' -> 'portuges-apa'.
+
+Package biblatex Info: Trying to load language 'portuges'...
+Package biblatex Info: ... file 'portuges.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuges.lbx
+File: portuges.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'portuguese' -> 'portuguese-apa'...
+Package biblatex Info: ... file 'portuguese-apa.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/portuguese-apa.lbx
+File: portuguese-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
+Package biblatex Info: Trying to load language 'portuguese'...
+Package biblatex Info: ... file 'portuguese.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
+File: portuguese.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'portuguese' -> 'portuguese-apa'...
+Package biblatex Info: ... file 'portuguese-apa.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/portuguese-apa.lbx
+File: portuguese-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
+Package biblatex Info: Trying to load language 'portuguese'...
+Package biblatex Info: ... file 'portuguese.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
+File: portuguese.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `tese.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'tese.bbl' found.
+ (./tese.bbl)
+Package biblatex Info: Reference section=0 on input line 58.
+Package biblatex Info: Reference segment=0 on input line 58.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count516
+ (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
+ (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+\openout2 = `firstpage.aux'.
+
+ (./firstpage.tex
+<images/logo_ubi_vprincipal.jpg, id=241, 733.99219pt x 752.8125pt>
+File: images/logo_ubi_vprincipal.jpg Graphic file (type jpg)
+<use images/logo_ubi_vprincipal.jpg>
+Package pdftex.def Info: images/logo_ubi_vprincipal.jpg  used on input line 6.
+(pdftex.def)             Requested size: 85.35826pt x 87.54225pt.
+LaTeX Font Info:    Trying to load font information for TS1+iwona on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/latex/iwona/ts1iwona.fd
+File: ts1iwona.fd 2008/07/22 v0.995 font definition file for TS1/iwona (MW)
+) [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/ts1-iwona.enc} <./images/logo_ubi_vprincipal.jpg>] [2
+
+
+])
+\openout2 = `Declaration.aux'.
+
+ (./Declaration.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+<images/signature.png, id=257, 287.0725pt x 96.36pt>
+File: images/signature.png Graphic file (type png)
+<use images/signature.png>
+Package pdftex.def Info: images/signature.png  used on input line 17.
+(pdftex.def)             Requested size: 170.71652pt x 57.30475pt.
+) [3
+
+
+
+
+
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./images/signature.png>] [4
+
+
+
+
+]
+\openout2 = `agradecimentos.aux'.
+
+ (./agradecimentos.tex) [5
+
+
+]
+\openout2 = `resumo.aux'.
+
+ (./resumo.tex [6
+
+
+
+
+]) [7]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex [8
+
+
+
+
+]) [9] [10
+
+
+
+
+] (./tese.toc
+LaTeX Font Info:    Trying to load font information for OT1+iwonam on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/iwona/ot1iwonam.fd
+File: ot1iwonam.fd 2005/10/05 v1.2 font definition file for OT1/iwonam (MW)
+)
+LaTeX Font Info:    Trying to load font information for OML+iwona on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/iwona/omliwona.fd
+File: omliwona.fd 2008/07/22 v0.995 font definition file for OML/iwona (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMS+iwona on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/iwona/omsiwona.fd
+File: omsiwona.fd 2008/07/22 v0.995 font definition file for OMS/iwona (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMX+iwona on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/iwona/omxiwona.fd
+File: omxiwona.fd 2008/07/22 v0.995 font definition file for OMX/iwona (MW)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [11
+
+]
+Package acronym Info: Label `acro:UI' newly defined as it shall be overridden
+although it is yet undefined on input line 27.
+ [12])
+\tf@toc=\write6
+\openout6 = `tese.toc'.
+
+ [13] [14
+
+] (./tese.lof
+Overfull \hbox (21.34427pt too wide) in paragraph at lines 8--8
+ [][] [][]\T1/cmr/m/n/12 Data Cen-ter Demo - Capa do jogo. Re-ti-rado de []$https : / / store . steampowered . 
+ []
+
+
+Overfull \hbox (17.43265pt too wide) in paragraph at lines 12--12
+ [][] [][]\T1/cmr/m/n/12 Startup Com-pany - Capa do jogo. Re-ti-rado de []$https : / / store . steampowered . 
+ []
+
+
+Overfull \hbox (39.73036pt too wide) in paragraph at lines 13--13
+ \T1/cmr/m/n/12 Re-ti-rado de []$https : / / store . steampowered . com / app / 606800 / Startup _ Company / 
+ []
+
+
+Overfull \hbox (10.52774pt too wide) in paragraph at lines 15--15
+ \T1/cmr/m/n/12 de []$https : / / store . steampowered . com / app / 606800 / Startup _ Company / ?l = 
+ []
+
+[15]
+Package acronym Info: Label `acro:CLI' newly defined as it shall be overridden
+although it is yet undefined on input line 22.
+ [16]
+Package acronym Info: Label `acro:IA' newly defined as it shall be overridden
+although it is yet undefined on input line 51.
+Package acronym Info: Label `acro:VFX' newly defined as it shall be overridden
+although it is yet undefined on input line 52.
+)
+\tf@lof=\write7
+\openout7 = `tese.lof'.
+
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 82.
+
+[17] [18
+
+
+] (./acronimos.tex) [19
+
+] [20
+
+
+]
+\openout2 = `capitulo1.aux'.
+
+ (./capitulo1.tex
+Cap\'{\i }tulo 1.
+Package acronym Info: Label `acro:UBI' newly defined as it shall be overridden
+although it is yet undefined on input line 9.
+[1
+
+
+
+]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 66.
+
+Package babel Info: 'portuges' activates 'portuges' shorthands.
+(babel)             Reported on input line 66.
+[2])
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 95.
+
+[3]
+\openout2 = `capitulo2.aux'.
+
+ (./capitulo2.tex
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 1.
+
+[4
+
+
+
+
+]
+Cap\'{\i }tulo 2.
+<images/DataCenterCapa.jpg, id=603, 111.18462pt x 51.96672pt>
+File: images/DataCenterCapa.jpg Graphic file (type jpg)
+<use images/DataCenterCapa.jpg>
+Package pdftex.def Info: images/DataCenterCapa.jpg  used on input line 27.
+(pdftex.def)             Requested size: 153.03447pt x 71.53493pt.
+[5]
+<images/DataCenter1.png, id=611, 1927.2pt x 1084.05pt>
+File: images/DataCenter1.png Graphic file (type png)
+<use images/DataCenter1.png>
+Package pdftex.def Info: images/DataCenter1.png  used on input line 41.
+(pdftex.def)             Requested size: 349.7883pt x 196.74162pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 47.
+
+[6 <./images/DataCenterCapa.jpg> <./images/DataCenter1.png>]
+<images/PCBuildSimulator-Header.jpg, id=621, 461.725pt x 215.80624pt>
+File: images/PCBuildSimulator-Header.jpg Graphic file (type jpg)
+<use images/PCBuildSimulator-Header.jpg>
+Package pdftex.def Info: images/PCBuildSimulator-Header.jpg  used on input line 69.
+(pdftex.def)             Requested size: 153.03447pt x 71.5258pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 84.
+
+[7 <./images/PCBuildSimulator-Header.jpg>]
+<images/PCBuildSimulator_BuildPC.png, id=629, 1315.91624pt x 757.32938pt>
+File: images/PCBuildSimulator_BuildPC.png Graphic file (type png)
+<use images/PCBuildSimulator_BuildPC.png>
+Package pdftex.def Info: images/PCBuildSimulator_BuildPC.png  used on input line 87.
+(pdftex.def)             Requested size: 349.7883pt x 201.30379pt.
+
+Underfull \hbox (badness 1163) in paragraph at lines 101--102
+\T1/iwona/m/n/12 senta uma pro-posta cen-trada na si-mu-la-��o
+ []
+
+<images/StartUPCompany_Header.jpg, id=632, 461.725pt x 215.80624pt>
+File: images/StartUPCompany_Header.jpg Graphic file (type jpg)
+<use images/StartUPCompany_Header.jpg>
+Package pdftex.def Info: images/StartUPCompany_Header.jpg  used on input line 106.
+(pdftex.def)             Requested size: 153.03447pt x 71.5258pt.
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 114.
+
+[8 <./images/PCBuildSimulator_BuildPC.png> <./images/StartUPCompany_Header.jpg>]
+<images/Startup-Metrics.jpg, id=642, 1927.2pt x 1084.05pt>
+File: images/Startup-Metrics.jpg Graphic file (type jpg)
+<use images/Startup-Metrics.jpg>
+Package pdftex.def Info: images/Startup-Metrics.jpg  used on input line 120.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+<images/Startup-Server.jpg, id=643, 1927.2pt x 1084.05pt>
+File: images/Startup-Server.jpg Graphic file (type jpg)
+<use images/Startup-Server.jpg>
+Package pdftex.def Info: images/Startup-Server.jpg  used on input line 128.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+<images/Startu - humanos.png, id=644, 1904.61563pt x 1025.33063pt>
+File: images/Startu - humanos.png Graphic file (type png)
+<use images/Startu - humanos.png>
+Package pdftex.def Info: images/Startu - humanos.png  used on input line 136.
+(pdftex.def)             Requested size: 262.3429pt x 141.2298pt.
+<images/GreyHack-Header.jpg, id=650, 468.22816pt x 218.84578pt>
+File: images/GreyHack-Header.jpg Graphic file (type jpg)
+<use images/GreyHack-Header.jpg>
+Package pdftex.def Info: images/GreyHack-Header.jpg  used on input line 157.
+(pdftex.def)             Requested size: 153.03447pt x 71.52808pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 163.
+
+[9 <./images/Startup-Metrics.jpg> <./images/Startup-Server.jpg> <./images/Startu - humanos.png>]
+<images/Grey Hack - Terminal.jpg, id=659, 977.17183pt x 549.65915pt>
+File: images/Grey Hack - Terminal.jpg Graphic file (type jpg)
+<use images/Grey Hack - Terminal.jpg>
+Package pdftex.def Info: images/Grey Hack - Terminal.jpg  used on input line 170.
+(pdftex.def)             Requested size: 437.23372pt x 245.94368pt.
+<images/SoftwareInc-Header.jpg, id=664, 468.22816pt x 218.84578pt>
+File: images/SoftwareInc-Header.jpg Graphic file (type jpg)
+<use images/SoftwareInc-Header.jpg>
+Package pdftex.def Info: images/SoftwareInc-Header.jpg  used on input line 189.
+(pdftex.def)             Requested size: 153.03447pt x 71.52808pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 195.
+
+[10 <./images/GreyHack-Header.jpg> <./images/Grey Hack - Terminal.jpg>])
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 97.
+
+[11 <./images/SoftwareInc-Header.jpg>]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 97.
+
+[12]
+\openout2 = `capitulo3.aux'.
+
+ (./capitulo3.tex
+Cap\'{\i }tulo 3.
+[13
+
+
+
+
+]
+<Diagramas/MDA.png, id=699, 1977.3875pt x 415.05063pt>
+File: Diagramas/MDA.png Graphic file (type png)
+<use Diagramas/MDA.png>
+Package pdftex.def Info: Diagramas/MDA.png  used on input line 32.
+(pdftex.def)             Requested size: 437.23372pt x 91.77373pt.
+<Diagramas/Flow Graph.png, id=702, 901.86937pt x 576.1525pt>
+File: Diagramas/Flow Graph.png Graphic file (type png)
+<use Diagramas/Flow Graph.png>
+Package pdftex.def Info: Diagramas/Flow Graph.png  used on input line 50.
+(pdftex.def)             Requested size: 218.61685pt x 139.65967pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 58.
+
+[14 <./Diagramas/MDA.png> <./Diagramas/Flow Graph.png>]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 96.
+
+[15{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ac' on input line 114.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 126.
+
+[16]
+<images/CLI - GEMINI UI.jpg, id=733, 2055.68pt x 1050.92625pt>
+File: images/CLI - GEMINI UI.jpg Graphic file (type jpg)
+<use images/CLI - GEMINI UI.jpg>
+Package pdftex.def Info: images/CLI - GEMINI UI.jpg  used on input line 129.
+(pdftex.def)             Requested size: 349.7883pt x 178.81546pt.
+<images/CLI - btop UI.jpg, id=738, 871.255pt x 590.205pt>
+File: images/CLI - btop UI.jpg Graphic file (type jpg)
+<use images/CLI - btop UI.jpg>
+Package pdftex.def Info: images/CLI - btop UI.jpg  used on input line 136.
+(pdftex.def)             Requested size: 349.7883pt x 236.95137pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 150.
+
+[17 <./images/CLI - GEMINI UI.jpg> <./images/CLI - btop UI.jpg>]
+<Diagramas/Level Design.png, id=753, 914.41624pt x 826.58812pt>
+File: Diagramas/Level Design.png Graphic file (type png)
+<use Diagramas/Level Design.png>
+Package pdftex.def Info: Diagramas/Level Design.png  used on input line 164.
+(pdftex.def)             Requested size: 349.7883pt x 316.18784pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 172.
+
+[18 <./Diagramas/Level Design.png>]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 186.
+
+[19]
+<images/Notificação 1.png, id=767, 1220.30907pt x 374.14781pt>
+File: images/Notificação 1.png Graphic file (type png)
+<use images/Notificação 1.png>
+Package pdftex.def Info: images/Notificação 1.png  used on input line 196.
+(pdftex.def)             Requested size: 349.7883pt x 107.2441pt.
+<images/Notificações 2.png, id=768, 668.4975pt x 298.11375pt>
+File: images/Notificações 2.png Graphic file (type png)
+<use images/Notificações 2.png>
+Package pdftex.def Info: images/Notificações 2.png  used on input line 203.
+(pdftex.def)             Requested size: 349.7883pt x 155.98894pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 214.
+
+[20 <./images/Notificação 1.png> <./images/Notificações 2.png>]
+<images/Floor_ViewPort.png, id=779, 2569.6pt x 1445.4pt>
+File: images/Floor_ViewPort.png Graphic file (type png)
+<use images/Floor_ViewPort.png>
+Package pdftex.def Info: images/Floor_ViewPort.png  used on input line 231.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+<images/Pavimento Tecnico.jpg, id=780, 1927.2pt x 1084.05pt>
+File: images/Pavimento Tecnico.jpg Graphic file (type jpg)
+<use images/Pavimento Tecnico.jpg>
+Package pdftex.def Info: images/Pavimento Tecnico.jpg  used on input line 238.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 246.
+
+[21 <./images/Floor_ViewPort.png> <./images/Pavimento Tecnico.jpg>]
+<images/SwitchViewPort.png, id=789, 2569.6pt x 1445.4pt>
+File: images/SwitchViewPort.png Graphic file (type png)
+<use images/SwitchViewPort.png>
+Package pdftex.def Info: images/SwitchViewPort.png  used on input line 251.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+<images/Switch.png, id=790, 903.375pt x 602.25pt>
+File: images/Switch.png Graphic file (type png)
+<use images/Switch.png>
+Package pdftex.def Info: images/Switch.png  used on input line 258.
+(pdftex.def)             Requested size: 209.87032pt x 139.91139pt.
+<images/CabesViewPort.png, id=793, 2569.6pt x 1445.4pt>
+File: images/CabesViewPort.png Graphic file (type png)
+<use images/CabesViewPort.png>
+Package pdftex.def Info: images/CabesViewPort.png  used on input line 270.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+<images/CaminhoCabos.png, id=794, 613.29124pt x 405.515pt>
+File: images/CaminhoCabos.png Graphic file (type png)
+<use images/CaminhoCabos.png>
+Package pdftex.def Info: images/CaminhoCabos.png  used on input line 277.
+(pdftex.def)             Requested size: 209.87032pt x 138.77048pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 282.
+
+[22 <./images/SwitchViewPort.png> <./images/Switch.png>]
+<images/ServidorViewPort.png, id=805, 1927.2pt x 1084.05pt>
+File: images/ServidorViewPort.png Graphic file (type png)
+<use images/ServidorViewPort.png>
+Package pdftex.def Info: images/ServidorViewPort.png  used on input line 292.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+<images/Servidor_Amazon.jpg, id=806, 451.6875pt x 354.32375pt>
+File: images/Servidor_Amazon.jpg Graphic file (type jpg)
+<use images/Servidor_Amazon.jpg>
+Package pdftex.def Info: images/Servidor_Amazon.jpg  used on input line 299.
+(pdftex.def)             Requested size: 209.87032pt x 164.63448pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 304.
+
+[23 <./images/CabesViewPort.png> <./images/CaminhoCabos.png>]
+<images/GnomeGame.png, id=816, 1670.49094pt x 910.15031pt>
+File: images/GnomeGame.png Graphic file (type png)
+<use images/GnomeGame.png>
+Package pdftex.def Info: images/GnomeGame.png  used on input line 311.
+(pdftex.def)             Requested size: 209.87032pt x 114.3379pt.
+<images/Imagem colada.png, id=817, 2569.6pt x 1445.4pt>
+File: images/Imagem colada.png Graphic file (type png)
+<use images/Imagem colada.png>
+Package pdftex.def Info: images/Imagem colada.png  used on input line 318.
+(pdftex.def)             Requested size: 209.87032pt x 118.03835pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 328.
+
+[24 <./images/ServidorViewPort.png> <./images/Servidor_Amazon.jpg> <./images/GnomeGame.png> <./images/Imagem colada.png>]
+<images/Projeto CPU.png, id=828, 1666.72687pt x 932.73468pt>
+File: images/Projeto CPU.png Graphic file (type png)
+<use images/Projeto CPU.png>
+Package pdftex.def Info: images/Projeto CPU.png  used on input line 359.
+(pdftex.def)             Requested size: 209.87032pt x 117.44548pt.
+<images/Projeto Disk.png, id=829, 1668.9853pt x 938.00438pt>
+File: images/Projeto Disk.png Graphic file (type png)
+<use images/Projeto Disk.png>
+Package pdftex.def Info: images/Projeto Disk.png  used on input line 367.
+(pdftex.def)             Requested size: 209.87032pt x 117.95158pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 372.
+
+[25]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 400.
+
+[26{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/mi-iwona.enc} <./images/Projeto CPU.png> <./images/Projeto Disk.png>]
+Package acronym Info: Label `acro:RPG' newly defined as it shall be overridden
+although it is yet undefined on input line 419.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 437.
+
+[27{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/sy-iwona.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/iwona/rm-iwona.enc}]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 468.
+
+[28]
+<Diagramas/Core_Gameplay_Loop.png, id=864, 2414.01875pt x 1304.875pt>
+File: Diagramas/Core_Gameplay_Loop.png Graphic file (type png)
+<use Diagramas/Core_Gameplay_Loop.png>
+Package pdftex.def Info: Diagramas/Core_Gameplay_Loop.png  used on input line 473.
+(pdftex.def)             Requested size: 393.50768pt x 212.70668pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 481.
+
+[29 <./Diagramas/Core_Gameplay_Loop.png>]
+<Diagramas/Shop_Gameplay_Loop.png, id=873, 2414.01875pt x 1304.875pt>
+File: Diagramas/Shop_Gameplay_Loop.png Graphic file (type png)
+<use Diagramas/Shop_Gameplay_Loop.png>
+Package pdftex.def Info: Diagramas/Shop_Gameplay_Loop.png  used on input line 487.
+(pdftex.def)             Requested size: 393.50768pt x 212.70668pt.
+<Diagramas/Combat_Gameplay_Loop.png, id=874, 2414.01875pt x 1304.875pt>
+File: Diagramas/Combat_Gameplay_Loop.png Graphic file (type png)
+<use Diagramas/Combat_Gameplay_Loop.png>
+Package pdftex.def Info: Diagramas/Combat_Gameplay_Loop.png  used on input line 495.
+(pdftex.def)             Requested size: 393.50768pt x 212.70668pt.
+)
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 99.
+
+[30 <./Diagramas/Shop_Gameplay_Loop.png> <./Diagramas/Combat_Gameplay_Loop.png>]
+\openout2 = `capitulo4.aux'.
+
+ (./capitulo4.tex
+Cap\'{\i }tulo 4.
+[31
+
+
+
+
+]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 24.
+
+[32]
+<Diagramas/diagrama_game.png, id=895, 2369.35187pt x 1832.34563pt>
+File: Diagramas/diagrama_game.png Graphic file (type png)
+<use Diagramas/diagrama_game.png>
+Package pdftex.def Info: Diagramas/diagrama_game.png  used on input line 32.
+(pdftex.def)             Requested size: 437.23372pt x 338.1119pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 43.
+
+[33 <./Diagramas/diagrama_game.png>]
+<Diagramas/Use_case_Tarefa.png, id=903, 6584.6pt x 2865.70625pt>
+File: Diagramas/Use_case_Tarefa.png Graphic file (type png)
+<use Diagramas/Use_case_Tarefa.png>
+Package pdftex.def Info: Diagramas/Use_case_Tarefa.png  used on input line 55.
+(pdftex.def)             Requested size: 393.50768pt x 171.23532pt.
+<Diagramas/Use_case_Shop.png, id=905, 6730.14375pt x 2313.64375pt>
+File: Diagramas/Use_case_Shop.png Graphic file (type png)
+<use Diagramas/Use_case_Shop.png>
+Package pdftex.def Info: Diagramas/Use_case_Shop.png  used on input line 72.
+(pdftex.def)             Requested size: 393.50768pt x 135.247pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 76.
+
+[34 <./Diagramas/Use_case_Tarefa.png>]
+<Diagramas/Use_case_Combate.png, id=913, 5681.225pt x 2920.9125pt>
+File: Diagramas/Use_case_Combate.png Graphic file (type png)
+<use Diagramas/Use_case_Combate.png>
+Package pdftex.def Info: Diagramas/Use_case_Combate.png  used on input line 88.
+(pdftex.def)             Requested size: 393.50768pt x 202.30086pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 92.
+
+[35 <./Diagramas/Use_case_Shop.png>]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 98.
+
+[36 <./Diagramas/Use_case_Combate.png>]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 115.
+
+[37]
+<Blender/CenarioViewPort1.png, id=933, 1706.375pt x 1445.4pt>
+File: Blender/CenarioViewPort1.png Graphic file (type png)
+<use Blender/CenarioViewPort1.png>
+Package pdftex.def Info: Blender/CenarioViewPort1.png  used on input line 124.
+(pdftex.def)             Requested size: 131.17145pt x 111.09103pt.
+<Blender/CenarioViewPort2.png, id=934, 1706.375pt x 1445.4pt>
+File: Blender/CenarioViewPort2.png Graphic file (type png)
+<use Blender/CenarioViewPort2.png>
+Package pdftex.def Info: Blender/CenarioViewPort2.png  used on input line 132.
+(pdftex.def)             Requested size: 131.17145pt x 111.09103pt.
+<Blender/CenarioViewPort3.png, id=935, 1706.375pt x 1445.4pt>
+File: Blender/CenarioViewPort3.png Graphic file (type png)
+<use Blender/CenarioViewPort3.png>
+Package pdftex.def Info: Blender/CenarioViewPort3.png  used on input line 140.
+(pdftex.def)             Requested size: 131.17145pt x 111.09103pt.
+<Blender/CenárioRender.png, id=936, 1890.13846pt x 1445.4pt>
+File: Blender/CenárioRender.png Graphic file (type png)
+<use Blender/CenárioRender.png>
+Package pdftex.def Info: Blender/CenárioRender.png  used on input line 151.
+(pdftex.def)             Requested size: 284.19923pt x 217.3079pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 161.
+
+[38 <./Blender/CenarioViewPort1.png> <./Blender/CenarioViewPort2.png> <./Blender/CenarioViewPort3.png> <./Blender/CenárioRender.png>]
+<Blender/CanhaoViewPort1.png, id=948, 2007.5pt x 2007.5pt>
+File: Blender/CanhaoViewPort1.png Graphic file (type png)
+<use Blender/CanhaoViewPort1.png>
+Package pdftex.def Info: Blender/CanhaoViewPort1.png  used on input line 170.
+(pdftex.def)             Requested size: 131.17145pt x 131.16599pt.
+<Blender/CanhaoViewPort2.png, id=949, 2007.5pt x 2007.5pt>
+File: Blender/CanhaoViewPort2.png Graphic file (type png)
+<use Blender/CanhaoViewPort2.png>
+Package pdftex.def Info: Blender/CanhaoViewPort2.png  used on input line 178.
+(pdftex.def)             Requested size: 131.17145pt x 131.16599pt.
+<Blender/CanhaoViewPort3.png, id=950, 2007.5pt x 2007.5pt>
+File: Blender/CanhaoViewPort3.png Graphic file (type png)
+<use Blender/CanhaoViewPort3.png>
+Package pdftex.def Info: Blender/CanhaoViewPort3.png  used on input line 186.
+(pdftex.def)             Requested size: 131.17145pt x 131.16599pt.
+<Blender/CanhaoRender.png, id=951, 2007.5pt x 2223.6923pt>
+File: Blender/CanhaoRender.png Graphic file (type png)
+<use Blender/CanhaoRender.png>
+Package pdftex.def Info: Blender/CanhaoRender.png  used on input line 197.
+(pdftex.def)             Requested size: 240.47987pt x 266.35654pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 215.
+
+[39 <./Blender/CanhaoViewPort1.png> <./Blender/CanhaoViewPort2.png> <./Blender/CanhaoViewPort3.png> <./Blender/CanhaoRender.png>]
+<images/Character_image.jpg, id=964, 4496.8pt x 2055.68pt>
+File: images/Character_image.jpg Graphic file (type jpg)
+<use images/Character_image.jpg>
+Package pdftex.def Info: images/Character_image.jpg  used on input line 220.
+(pdftex.def)             Requested size: 349.7883pt x 159.87816pt.
+<images/MiniGameVFX.png, id=969, 1186.4325pt x 662.475pt>
+File: images/MiniGameVFX.png Graphic file (type png)
+<use images/MiniGameVFX.png>
+Package pdftex.def Info: images/MiniGameVFX.png  used on input line 246.
+(pdftex.def)             Requested size: 284.19923pt x 158.68388pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 249.
+
+[40 <./images/Character_image.jpg>]
+<images/HomeMenuEfeito.png, id=980, 1173.63469pt x 662.475pt>
+File: images/HomeMenuEfeito.png Graphic file (type png)
+<use images/HomeMenuEfeito.png>
+Package pdftex.def Info: images/HomeMenuEfeito.png  used on input line 257.
+(pdftex.def)             Requested size: 284.19923pt x 160.41245pt.
+<Presonagem/FurryFront.png, id=981, 728.7225pt x 1084.05pt>
+File: Presonagem/FurryFront.png Graphic file (type png)
+<use Presonagem/FurryFront.png>
+Package pdftex.def Info: Presonagem/FurryFront.png  used on input line 271.
+(pdftex.def)             Requested size: 131.17145pt x 195.12057pt.
+<Presonagem/FurryBack.png, id=982, 727.71875pt x 1084.05pt>
+File: Presonagem/FurryBack.png Graphic file (type png)
+<use Presonagem/FurryBack.png>
+Package pdftex.def Info: Presonagem/FurryBack.png  used on input line 276.
+(pdftex.def)             Requested size: 131.17145pt x 195.40178pt.
+<Presonagem/FurryLeft.png, id=983, 727.71875pt x 1084.05pt>
+File: Presonagem/FurryLeft.png Graphic file (type png)
+<use Presonagem/FurryLeft.png>
+Package pdftex.def Info: Presonagem/FurryLeft.png  used on input line 281.
+(pdftex.def)             Requested size: 131.17145pt x 195.40178pt.
+<Presonagem/FurryRight.png, id=984, 729.72626pt x 1084.05pt>
+File: Presonagem/FurryRight.png Graphic file (type png)
+<use Presonagem/FurryRight.png>
+Package pdftex.def Info: Presonagem/FurryRight.png  used on input line 289.
+(pdftex.def)             Requested size: 131.17145pt x 194.85591pt.
+<Presonagem/Furrytop.png, id=985, 727.71875pt x 1084.05pt>
+File: Presonagem/Furrytop.png Graphic file (type png)
+<use Presonagem/Furrytop.png>
+Package pdftex.def Info: Presonagem/Furrytop.png  used on input line 294.
+(pdftex.def)             Requested size: 131.17145pt x 195.40178pt.
+
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 300.
+
+[41 <./images/MiniGameVFX.png> <./images/HomeMenuEfeito.png>]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 307.
+
+[42 <./Presonagem/FurryFront.png> <./Presonagem/FurryBack.png> <./Presonagem/FurryLeft.png> <./Presonagem/FurryRight.png> <./Presonagem/Furrytop.png>])
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 101.
+
+[43]
+\openout2 = `capitulo5.aux'.
+
+ (./capitulo5.tex
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 2.
+
+[44
+
+
+
+
+]
+Cap\'{\i }tulo 5.
+) [45]
+\openout2 = `capitulo6.aux'.
+
+ (./capitulo6.tex
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 2.
+
+[46
+
+
+
+
+]
+Cap\'{\i }tulo 6.
+) [47]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 107.
+
+[48
+
+
+
+]
+Overfull \hbox (3.94475pt too wide) in paragraph at lines 111--111
+\T1/iwona/m/n/12 Ma-na-ge-ment Ga-mes. \T1/iwona/m/it/12 Ex-ten-ded Abs-tracts of the An-nual Sym-po-sium on Computer-
+ []
+
+[49
+
+]
+
+LaTeX Font Warning: Font shape `T1/iwona/m/sl' undefined
+(Font)              using `T1/iwona/m/it' instead on input line 111.
+
+[50] (./tese.aux (./firstpage.aux) (./Declaration.aux) (./agradecimentos.aux) (./resumo.aux) (./abstract.aux) (./capitulo1.aux) (./capitulo2.aux) (./capitulo3.aux) (./capitulo4.aux) (./capitulo5.aux) (./capitulo6.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+Package rerunfilecheck Info: File `tese.out' has not changed.
+(rerunfilecheck)             Checksum: 455DF283847EBE945D6B1C8D42E78035;9101.
+Package logreq Info: Writing requests to 'tese.run.xml'.
+\openout1 = `tese.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27282 strings out of 467533
+ 487017 string characters out of 5422139
+ 1425220 words of memory out of 5000000
+ 55525 multiletter control sequences out of 15000+600000
+ 707144 words of font info for 93 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,14n,79p,1318b,2762s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonabi.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/iwona/iwonari.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrb1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on tese.pdf (70 pages, 41532916 bytes).
+PDF statistics:
+ 1158 PDF objects out of 1200 (max. 8388607)
+ 954 compressed objects within 10 object streams
+ 205 named destinations out of 1000 (max. 500000)
+ 754 words of extra memory for PDF output out of 10000 (max. 10000000)
+

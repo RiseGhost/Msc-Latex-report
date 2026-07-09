@@ -1,0 +1,210 @@
+%\setcounter{secnumdepth}{+2}
+\chapter{Introdução}
+%\chapter{Introduction}
+\label{cap1}
+
+\section{Introdução}
+
+O presente trabalho surge no âmbito do Mestrado em Design e Desenvolvimento de 
+Jogos Digitais da \ac{UBI} e foca-se na conceção e implementação de um videojogo de 
+simulação e gestão de infraestruturas tecnológicas. O projeto propõe uma 
+experiência imersiva onde o jogador assume o papel de gestor de um pequeno 
+centro de dados (data center), tendo como objetivo primordial a viabilidade 
+económica da operação através de uma gestão estratégica de recursos. A abordagem 
+adotada procura equilibrar o rigor técnico de conceitos reais de computação com 
+o entretenimento, utilizando métricas e componentes de hardware autênticos para 
+reforçar a imersão do utilizador.
+
+A estrutura deste relatório de projeto reflete o percurso de desenvolvimento do jogo, 
+começando por contextualizar a relevância do tema e as motivações que levaram à 
+sua escolha. Ao longo dos capítulos subsequentes, é apresentado o estado da arte, 
+onde se analisam títulos de referência no mercado e literatura científica relevante, 
+seguido do detalhe das decisões de design e das técnicas de implementação utilizadas. 
+Finalmente, o documento descreve os processos de teste e avaliação que validam o protótipo 
+desenvolvido, culminando numa reflexão sobre as contribuições do trabalho e as perspetivas 
+para desenvolvimentos futuros na área dos jogos educativos e de simulação.
+
+\section{Motivação}
+
+A motivação para o desenvolvimento deste projeto surge da intersecção entre 
+a complexidade da gestão de infraestruturas tecnológicas e o potencial lúdico 
+dos simuladores modernos. Embora o tema de gestão de data centers possa parecer,
+à primeira vista, estritamente técnico ou árido, existe um ecossistema rico 
+em mecânicas de estratégia, logística e resolução de problemas que se 
+traduzem naturalmente em experiências de jogo envolventes.
+
+Um dos principais motores deste trabalho é a vontade de desmistificar 
+conceitos de computação de alto desempenho, como o consumo energético em Watts 
+ou a capacidade de processamento em TFLOPS, integrando-os num ciclo de jogo 
+onde o conhecimento é uma ferramenta para o sucesso e não uma barreira à 
+entrada. A utilização de unidades e métricas reais visa reforçar a imersão e 
+conferir um peso estratégico às decisões do jogador, permitindo uma aprendizagem 
+orgânica através da simulação.
+
+Contudo, a motivação central não reside apenas na simulação fiel, mas sim na 
+criação de um produto onde a diversão é o fator predominante. Ao contrário de 
+simuladores puramente técnicos, este projeto adota uma estética inspirada na 
+ficção e elementos de fantasia para garantir um ambiente visualmente apelativo 
+e menos formal. A inclusão de sistemas de combate e mini-jogos baseados em 
+terminais virtuais serve o propósito vital de quebrar a monotonia da gestão 
+económica, introduzindo dinamismo e momentos de adrenalina que mantêm o jogador 
+num estado de flow constante.
+
+Em suma, este projeto é motivado pela convicção de que é possível construir um 
+jogo "sério" que não se leve demasiado a sério. O objetivo é proporcionar uma 
+experiência recompensadora onde o jogador se sinta instigado a otimizar o seu 
+centro de dados, não por obrigação académica, mas pelo puro entretenimento de 
+superar desafios, gerir recursos e proteger a sua infraestrutura num universo 
+digital vibrante.
+
+\section{Desenvolvimento do conceito de jogo}
+
+Este projeto consiste na construção de um video jogo, onde o jogador é responsável
+por fazer a gestão de um pequeno data center, onde o objetivo é ganhar dinheiro.
+
+No entanto durante todo o precurso de gameplay, o jogador terá várias etapas a cumprir,
+como, comprar equipamento, configurar o equipamento, resolução de pequenos
+puzzles disponibelizados sobre a forma de mini games, gestão de recursos económicos e 
+combate contra ameaças, como por exemplo virus e ataques de hackers.
+
+Nas subseções sequentes, será desenvolvido de forma mais detalhada cada um dos pontos
+principais do conceito do jogo.
+
+\subsection{Compra e configuração de equipamento}
+
+Durante a compra de equipamentos para o data center, o jogador tem a sua disposição uma interface completa de
+configuração, onde é possivel escolher componentes como:
+\begin{itemize}
+    \item Processadores;
+    \item RAM;
+    \item Discos de vários tipos;
+    \item Placas gráficas (Não está presente na versão final do projeto);
+    \item Placas de rede;
+    \item Fontes de alimentação (Não está presente na versão final do projeto);
+    \item Caixas (Não está presente na versão final do projeto);
+    \item Sistema Operativo;
+    \item Sistemas de refrigeração (Está presente de forma simplificada).
+\end{itemize}
+
+Alguns dos pontos apresentados a cima, não estão presentes na versão final do projeto, 
+ou não estão totalmente desenvolvidos, divo a limitações de tempo e problemas e implementação, 
+no entanto, acredito que os pontos principais do jogo estão presentes.
+
+\begin{figure}[H]
+  \centering
+  % --- Primeira Figura (Métricas) ---
+  \begin{minipage}[b]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{images/Projeto CPU.png}
+    \caption[Captura de tela do jogo - Configuração de CPU.]{Captura de tela do jogo - Configuração de CPU.}
+    \label{Projeto_config_cpu1}
+  \end{minipage}
+  \hfill % Espaçamento entre as minipages
+  % --- Segunda Figura (Servidores) ---
+  \begin{minipage}[b]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{images/Projeto Disk.png}
+    \caption[Captura de tela do jogo - Configuração de discos.]{Captura de tela do jogo - Configuração de discos.}
+    \label{Projeto_config_disk1}
+  \end{minipage}
+\end{figure}
+
+Na Figura \ref{Projeto_config_cpu1} e na Figura \ref{Projeto_config_disk1} 
+é possível observar a interface de configuração de CPU e de discos, 
+respetivamente, onde o jogador tem a possibilidade de escolher entre vários tipos 
+de componentes, cada um com as suas próprias características e preços, 
+o que torna a escolha do equipamento uma parte importante da estratégia do jogo.
+Além disso, cada componente tem um impacto direto no consumo de energia (\textit{Watts})
+assim como no desempenho daquele servidor (\textit{TFLOPS}).
+As unidades utilizadas (\textit{Watts} e \textit{TFLOPS}) são unidades reais,
+e o uso server para reforma a imersão do jogador, além de tornar o jogo mais
+realista, e premitir a adição de conteudo educativo de forma ludica. 
+
+\subsection{Sistema de economia}
+
+O jogo integra um sistema de economia dinâmico que exige ao utilizador a 
+gestão estratégica de recursos financeiros. Esta gestão abrange não só o 
+investimento em bens de capital --- como a aquisição de equipamentos e 
+respetivos \textit{upgrades} --- mas também a administração de despesas 
+operacionais correntes, nomeadamente os custos associados ao consumo de 
+eletricidade, sistemas de refrigeração, abastecimento de água e serviços de
+ conectividade à internet.
+
+A componente económica é processada em tempo real, mantendo a continuidade 
+do fluxo financeiro independentemente do estado da sessão do jogador. Este 
+mecanismo assegura que:
+
+\begin{itemize}
+    \item \textbf{Débitos Operacionais:} As despesas fixas e variáveis são calculadas com base em períodos predefinidos ($x$ minutos). Caso o jogador se ausente do jogo por um período $n \cdot x$ (onde $n \geq 1$), o montante debitado será igual a n, da próxima vez que abrir o jogo.
+    \item \textbf{Fluxos de Rendimento:} De igual modo, a geração de receita é contínua para serviços de subscrição ou fidelização. Um exemplo prático é o aluguer de infraestrutura de \textit{data center} para alojamento de \textit{websites}, onde os ganhos são contabilizados proporcionalmente ao tempo decorrido, garantindo a persistência económica do ecossistema.
+\end{itemize}
+
+Este sistema está presente na versão apresentada do projeto, embora com uma
+redução no número de váriaveis a gerir, tais como a ausência de custos relacionados
+com sistema de refregeração, abastecimento de água e serviços de internet.
+Sendo assim as únicas despesas presentes sendo:
+\begin{itemize}
+    \item Custos relacionados com o consumo de eletricidade;
+    \item Custos relacionados com a compra de equipamentos.
+\end{itemize}
+
+Todavia, creio que o sistema de economia presente cumpre a função de transmitir
+a ideia real de gestão de recursos, além de propocionar um gancho de interesse para
+o jogador voltar a entrar no jogo, com o intuito de receber os pagamentos pendentes.
+
+\subsection{Sistema de combate}
+
+O conceito do jogo conta com uma componente de combate, onde o jogador teria
+a sua disposição um sistema de combate e \textit{buids} semelhantes a jogos de \ac{RPG},
+mas adaptado ao contexto do jogo. Ou seja os atributos de ataque, defesa,
+velocidade, etc, seriam substituidos por atributos relacionados com o 
+contexto do jogo, como por exemplo, poder de processamento, largura de banda,
+algoritmos de segurança, etc...
+
+A intensão desta componente de combate, seria quebrar um pouco do cliclo de jogo,
+e proporcionar ao jogador uma experiência mais dinâmica e variada, utilizando da temática
+para construir um experiência diferente e divertida, onde o jogador
+poderia ser introduzido a conceitos e expressões tecnicas de uma forma lúdica
+sem perder o foco na diversão.
+
+Segundo \textcite{bogost}, os josos não comunicam apenas através 
+de imagens ou palavras, mas através de processos. Ou seja, quando utiliza de 
+um contexto de Data Center adaptado a um \ac{RPG}, estamos a criar 
+um modelo de como esse sistema funciona. Segundo o autor, essa 
+"aprendizagem por simulação" gera uma curiosidade intrínseca, 
+pois o jogador tenta decifrar a lógica do sistema real através 
+das regras do jogo.
+
+Embora a ideia apresentada a cima seria a ideal para o conceito do jogo, infelizmente
+devido a sua complexidade para o seu desenvolviemento, o projeto apresentado teve de ser
+adaptado, no sentido em que vez de ter o sistema de \ac{RPG}, o jogo terá uma
+metralhadora no cenário em que o jogador terá de a usar para destruir os inimigos (virus e harckers)
+que iram aparecer durante a gameplay.
+Embora essa adaptação carece em termos de complexidade e profundidade de contexto,
+limitando a precepção do jogador comparado com o sistema de \ac{RPG}, creio mesmo assim
+ser relavante uma vez que introduz um elemento de combate, e quebra uma pouco do cliclo de jogo,
+que se poderia tornar repetitivo, além de proporcionar uma experiência mais dinâmica e divertida para o jogador.
+
+\subsection{Estilo e estética}
+
+O jogo é caracterizado por ser um jogo 3D com uma perspectiva isométrica, onde 
+o jogador tem uma visão geral do cenário, e pode interagir com os diferentes 
+elementos do jogo para cumprir os objetivos propostos.
+
+O jogo faz uso de elementos de fantasia e ficção, principalmente na estética, com o
+objetivo de criar um ambiente mais divertido e envolvente para o jogador.
+
+
+
+
+\section{ Organização do documento}
+
+Este documento é organizado segundo os seguintes capítulos:
+\begin{enumerate}
+    \item \textbf{Introdução} - ...
+    \item \textbf{Estado da Arte} - ...
+    \item \textbf{Design do Jogo} - ...
+    \item \textbf{Implementação do Jogo} - ...
+    \item  \textbf{Teste e Avaliação do Jogo} - ...
+    \item \textbf{Conclusão e Trabalho Futuro} - ...
+\end{enumerate}

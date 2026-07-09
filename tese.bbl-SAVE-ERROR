@@ -1,0 +1,1009 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{adams_fundamentals}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=102d61e785c8cdd4157d4330c857544e}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson education}%
+      }
+      \strng{namehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{fullhash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{fullhashraw}{102d61e785c8cdd4157d4330c857544e}
+      \strng{bibnamehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authorbibnamehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authornamehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authorfullhash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authorfullhashraw}{102d61e785c8cdd4157d4330c857544e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of game design}
+      \field{year}{2014}
+    \endentry
+    \entry{flow}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=149727d7f587db70f0357aa137f19ed7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jenova},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{fullhash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{fullhashraw}{149727d7f587db70f0357aa137f19ed7}
+      \strng{bibnamehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authorbibnamehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authornamehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authorfullhash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authorfullhashraw}{149727d7f587db70f0357aa137f19ed7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{4}
+      \field{title}{Flow in games (and everything else)}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{pages}{31\bibrangedash 34}
+      \range{pages}{4}
+    \endentry
+    \entry{PCBuildingSimulator}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06377766be5723c8a5501ecd2f2e9282}{%
+           family={{Claudiu Kiss}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Irregular Corporation}%
+      }
+      \strng{namehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{fullhash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{fullhashraw}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{bibnamehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authorbibnamehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authornamehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authorfullhash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authorfullhashraw}{06377766be5723c8a5501ecd2f2e9282}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{PC Building Simulator}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/621060/PC_Building_Simulator/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/621060/PC_Building_Simulator/
+      \endverb
+    \endentry
+    \entry{SoftwareInc}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61316fd00aed1a2a31d236219304b5c8}{%
+           family={{Coredumping}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{fullhash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{fullhashraw}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{bibnamehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authorbibnamehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authornamehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authorfullhash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authorfullhashraw}{61316fd00aed1a2a31d236219304b5c8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Software Inc.}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/362620/Software_Inc/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/362620/Software_Inc/
+      \endverb
+    \endentry
+    \entry{modelo_hook}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16ceb85258b9422cf9d0cb8e9f279202}{%
+           family={Eyal},
+           familyi={E\bibinitperiod},
+           given={Nir},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Uk}%
+      }
+      \strng{namehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{fullhash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{fullhashraw}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{bibnamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorbibnamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authornamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorfullhash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorfullhashraw}{16ceb85258b9422cf9d0cb8e9f279202}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hooked: How to build habit-forming products}
+      \field{year}{2014}
+    \endentry
+    \entry{Gametheory-DataCenters}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b9f7ebdf8a2d5442801dd45c5d0654e8}{%
+           family={Hosseini},
+           familyi={H\bibinitperiod},
+           given={Soodeh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91f67c78a80dde539bf759d77677a946}{%
+           family={Vakili},
+           familyi={V\bibinitperiod},
+           given={Ramin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{fullhash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{fullhashraw}{5c52540ae937748c4ee817e3282307cc}
+      \strng{bibnamehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authorbibnamehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authornamehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authorfullhash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authorfullhashraw}{5c52540ae937748c4ee817e3282307cc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Game theory approach for detecting vulnerable data centers in cloud computing network}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.3938
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.3938
+      \endverb
+    \endentry
+    \entry{StartupCompany}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8fbabf08cb963234d5b339726eb2fa7e}{%
+           family={{Hovgaard Games}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{fullhash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{fullhashraw}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{bibnamehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authorbibnamehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authornamehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authorfullhash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authorfullhashraw}{8fbabf08cb963234d5b339726eb2fa7e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Startup Company}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/606800/Startup_Company/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/606800/Startup_Company/
+      \endverb
+    \endentry
+    \entry{framework-mda}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5eeee8f66d452006be5b86b51aed051d}{%
+           family={Hunicke},
+           familyi={H\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=992dc5b90a2b657dc809457a03a5e723}{%
+           family={LeBlanc},
+           familyi={L\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d8a43dfdd0afc35a7b19ffb5fabcccd}{%
+           family={Zubek},
+           familyi={Z\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {San Jose, CA}%
+      }
+      \strng{namehash}{0474b82ab00846544b3c591db058a8d7}
+      \strng{fullhash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{fullhashraw}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{bibnamehash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{authorbibnamehash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{authornamehash}{0474b82ab00846544b3c591db058a8d7}
+      \strng{authorfullhash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{authorfullhashraw}{f2f5f4c515ded0d798fa49647a533263}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the AAAI Workshop on Challenges in Game AI}
+      \field{number}{1}
+      \field{title}{MDA: A formal approach to game design and game research}
+      \field{volume}{4}
+      \field{year}{2004}
+      \field{pages}{1722}
+      \range{pages}{1}
+    \endentry
+    \entry{GreyHarck}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0216da6f185b227fc6a75875729df8ce}{%
+           family={{Loading Home}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{fullhash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{fullhashraw}{0216da6f185b227fc6a75875729df8ce}
+      \strng{bibnamehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authorbibnamehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authornamehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authorfullhash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authorfullhashraw}{0216da6f185b227fc6a75875729df8ce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Grey Hack}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
+      \endverb
+    \endentry
+    \entry{shay2022scaffolding}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7fb33a9638b064da09c389d6aad1e216}{%
+           family={Shay},
+           familyi={S\bibinitperiod},
+           given={Lavi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8e8ecf0b276302ca68c7cba5c4c7c96}{%
+           family={Langbeheim},
+           familyi={L\bibinitperiod},
+           given={Elon},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {International Society of the Learning Sciences}%
+      }
+      \strng{namehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{fullhash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{fullhashraw}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{bibnamehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authorbibnamehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authornamehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authorfullhash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authorfullhashraw}{d537dcf30f6df3665ff877b051619d5d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 16th International Conference of the Learning Sciences-ICLS 2022, pp. 1934-1935}
+      \field{title}{Scaffolding math learning and motivation by integrating casual play in computer-based practice for fifth graders}
+      \field{year}{2022}
+    \endentry
+    \entry{SeriousGames-Frutuoso}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d5e085c4e4a6129853a6c547a4b5d9e}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Frutuoso\bibnamedelimb G.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{fullhash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{fullhashraw}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{bibnamehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authorbibnamehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authornamehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authorfullhash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authorfullhashraw}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information}
+      \field{title}{Practical Methodology for the Design of Educational Serious Games}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2078-2489/11/1/14
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2078-2489/11/1/14
+      \endverb
+    \endentry
+    \entry{DataCenterDemo}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8529c7a68f09ec5a58b0767713bea2be}{%
+           family={{Waseku}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Steam}%
+      }
+      \strng{namehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{fullhash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{fullhashraw}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{bibnamehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authorbibnamehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authornamehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authorfullhash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authorfullhashraw}{8529c7a68f09ec5a58b0767713bea2be}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Center Demo}
+      \field{version}{Demo}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/4376050/Data_Center_Demo/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/4376050/Data_Center_Demo/
+      \endverb
+    \endentry
+    \entry{notificações}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c2985fdeb3871c9707dc698e96e81239}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Wen\bibnamedelima Bo},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd43a395132191dae6389c3ea2403f35}{%
+           family={MacCormick},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7d1039e7db02b86e589b5f3ba84fe29}{%
+           family={Zaman},
+           familyi={Z\bibinitperiod},
+           given={Loutfouz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d155b2407093259fed137113eee0eeb4}{%
+           family={Mirza-Babaei},
+           familyi={M\bibinithyphendelim B\bibinitperiod},
+           given={Pejman},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed99665dec2cd76610b3f119b4a3c994}
+      \strng{fullhash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{fullhashraw}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{bibnamehash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{authorbibnamehash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{authornamehash}{ed99665dec2cd76610b3f119b4a3c994}
+      \strng{authorfullhash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{authorfullhashraw}{a7168a7ab54484605e44edaa3b3fb288}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play Companion Extended Abstracts}
+      \field{title}{Getting the Player's Attention: Comparing the Effectiveness of Common Notification Types in Task Management Games}
+      \field{year}{2019}
+      \field{pages}{797\bibrangedash 804}
+      \range{pages}{8}
+    \endentry
+    \entry{bogost}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5a129ca46b5d51f245b33508ccb239f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuejiao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{fullhash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{fullhashraw}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{bibnamehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authorbibnamehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authornamehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authorfullhash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authorfullhashraw}{e5a129ca46b5d51f245b33508ccb239f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ian Bogost, Persuasive Games: The Expressive Power of Videogames}
+      \field{year}{2009}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{adams_fundamentals}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=102d61e785c8cdd4157d4330c857544e}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson education}%
+      }
+      \strng{namehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{fullhash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{fullhashraw}{102d61e785c8cdd4157d4330c857544e}
+      \strng{bibnamehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authorbibnamehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authornamehash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authorfullhash}{102d61e785c8cdd4157d4330c857544e}
+      \strng{authorfullhashraw}{102d61e785c8cdd4157d4330c857544e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of game design}
+      \field{year}{2014}
+    \endentry
+    \entry{flow}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=149727d7f587db70f0357aa137f19ed7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jenova},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{fullhash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{fullhashraw}{149727d7f587db70f0357aa137f19ed7}
+      \strng{bibnamehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authorbibnamehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authornamehash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authorfullhash}{149727d7f587db70f0357aa137f19ed7}
+      \strng{authorfullhashraw}{149727d7f587db70f0357aa137f19ed7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{4}
+      \field{title}{Flow in games (and everything else)}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{pages}{31\bibrangedash 34}
+      \range{pages}{4}
+    \endentry
+    \entry{PCBuildingSimulator}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06377766be5723c8a5501ecd2f2e9282}{%
+           family={{Claudiu Kiss}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Irregular Corporation}%
+      }
+      \strng{namehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{fullhash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{fullhashraw}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{bibnamehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authorbibnamehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authornamehash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authorfullhash}{06377766be5723c8a5501ecd2f2e9282}
+      \strng{authorfullhashraw}{06377766be5723c8a5501ecd2f2e9282}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{PC Building Simulator}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/621060/PC_Building_Simulator/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/621060/PC_Building_Simulator/
+      \endverb
+    \endentry
+    \entry{SoftwareInc}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61316fd00aed1a2a31d236219304b5c8}{%
+           family={{Coredumping}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{fullhash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{fullhashraw}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{bibnamehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authorbibnamehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authornamehash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authorfullhash}{61316fd00aed1a2a31d236219304b5c8}
+      \strng{authorfullhashraw}{61316fd00aed1a2a31d236219304b5c8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Software Inc.}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/362620/Software_Inc/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/362620/Software_Inc/
+      \endverb
+    \endentry
+    \entry{modelo_hook}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16ceb85258b9422cf9d0cb8e9f279202}{%
+           family={Eyal},
+           familyi={E\bibinitperiod},
+           given={Nir},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Uk}%
+      }
+      \strng{namehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{fullhash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{fullhashraw}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{bibnamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorbibnamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authornamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorfullhash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorfullhashraw}{16ceb85258b9422cf9d0cb8e9f279202}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hooked: How to build habit-forming products}
+      \field{year}{2014}
+    \endentry
+    \entry{Gametheory-DataCenters}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b9f7ebdf8a2d5442801dd45c5d0654e8}{%
+           family={Hosseini},
+           familyi={H\bibinitperiod},
+           given={Soodeh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91f67c78a80dde539bf759d77677a946}{%
+           family={Vakili},
+           familyi={V\bibinitperiod},
+           given={Ramin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{fullhash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{fullhashraw}{5c52540ae937748c4ee817e3282307cc}
+      \strng{bibnamehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authorbibnamehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authornamehash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authorfullhash}{5c52540ae937748c4ee817e3282307cc}
+      \strng{authorfullhashraw}{5c52540ae937748c4ee817e3282307cc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Game theory approach for detecting vulnerable data centers in cloud computing network}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.3938
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.3938
+      \endverb
+    \endentry
+    \entry{StartupCompany}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8fbabf08cb963234d5b339726eb2fa7e}{%
+           family={{Hovgaard Games}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{fullhash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{fullhashraw}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{bibnamehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authorbibnamehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authornamehash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authorfullhash}{8fbabf08cb963234d5b339726eb2fa7e}
+      \strng{authorfullhashraw}{8fbabf08cb963234d5b339726eb2fa7e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Startup Company}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/606800/Startup_Company/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/606800/Startup_Company/
+      \endverb
+    \endentry
+    \entry{framework-mda}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5eeee8f66d452006be5b86b51aed051d}{%
+           family={Hunicke},
+           familyi={H\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=992dc5b90a2b657dc809457a03a5e723}{%
+           family={LeBlanc},
+           familyi={L\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d8a43dfdd0afc35a7b19ffb5fabcccd}{%
+           family={Zubek},
+           familyi={Z\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {San Jose, CA}%
+      }
+      \strng{namehash}{0474b82ab00846544b3c591db058a8d7}
+      \strng{fullhash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{fullhashraw}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{bibnamehash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{authorbibnamehash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{authornamehash}{0474b82ab00846544b3c591db058a8d7}
+      \strng{authorfullhash}{f2f5f4c515ded0d798fa49647a533263}
+      \strng{authorfullhashraw}{f2f5f4c515ded0d798fa49647a533263}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the AAAI Workshop on Challenges in Game AI}
+      \field{number}{1}
+      \field{title}{MDA: A formal approach to game design and game research}
+      \field{volume}{4}
+      \field{year}{2004}
+      \field{pages}{1722}
+      \range{pages}{1}
+    \endentry
+    \entry{GreyHarck}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0216da6f185b227fc6a75875729df8ce}{%
+           family={{Loading Home}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{fullhash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{fullhashraw}{0216da6f185b227fc6a75875729df8ce}
+      \strng{bibnamehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authorbibnamehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authornamehash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authorfullhash}{0216da6f185b227fc6a75875729df8ce}
+      \strng{authorfullhashraw}{0216da6f185b227fc6a75875729df8ce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Grey Hack}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
+      \endverb
+    \endentry
+    \entry{shay2022scaffolding}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7fb33a9638b064da09c389d6aad1e216}{%
+           family={Shay},
+           familyi={S\bibinitperiod},
+           given={Lavi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8e8ecf0b276302ca68c7cba5c4c7c96}{%
+           family={Langbeheim},
+           familyi={L\bibinitperiod},
+           given={Elon},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {International Society of the Learning Sciences}%
+      }
+      \strng{namehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{fullhash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{fullhashraw}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{bibnamehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authorbibnamehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authornamehash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authorfullhash}{d537dcf30f6df3665ff877b051619d5d}
+      \strng{authorfullhashraw}{d537dcf30f6df3665ff877b051619d5d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 16th International Conference of the Learning Sciences-ICLS 2022, pp. 1934-1935}
+      \field{title}{Scaffolding math learning and motivation by integrating casual play in computer-based practice for fifth graders}
+      \field{year}{2022}
+    \endentry
+    \entry{SeriousGames-Frutuoso}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d5e085c4e4a6129853a6c547a4b5d9e}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Frutuoso\bibnamedelimb G.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{fullhash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{fullhashraw}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{bibnamehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authorbibnamehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authornamehash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authorfullhash}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \strng{authorfullhashraw}{1d5e085c4e4a6129853a6c547a4b5d9e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information}
+      \field{title}{Practical Methodology for the Design of Educational Serious Games}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2078-2489/11/1/14
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2078-2489/11/1/14
+      \endverb
+    \endentry
+    \entry{DataCenterDemo}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8529c7a68f09ec5a58b0767713bea2be}{%
+           family={{Waseku}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Steam}%
+      }
+      \strng{namehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{fullhash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{fullhashraw}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{bibnamehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authorbibnamehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authornamehash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authorfullhash}{8529c7a68f09ec5a58b0767713bea2be}
+      \strng{authorfullhashraw}{8529c7a68f09ec5a58b0767713bea2be}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Center Demo}
+      \field{version}{Demo}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://store.steampowered.com/app/4376050/Data_Center_Demo/
+      \endverb
+      \verb{url}
+      \verb https://store.steampowered.com/app/4376050/Data_Center_Demo/
+      \endverb
+    \endentry
+    \entry{notificações}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c2985fdeb3871c9707dc698e96e81239}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Wen\bibnamedelima Bo},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd43a395132191dae6389c3ea2403f35}{%
+           family={MacCormick},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7d1039e7db02b86e589b5f3ba84fe29}{%
+           family={Zaman},
+           familyi={Z\bibinitperiod},
+           given={Loutfouz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d155b2407093259fed137113eee0eeb4}{%
+           family={Mirza-Babaei},
+           familyi={M\bibinithyphendelim B\bibinitperiod},
+           given={Pejman},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed99665dec2cd76610b3f119b4a3c994}
+      \strng{fullhash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{fullhashraw}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{bibnamehash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{authorbibnamehash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{authornamehash}{ed99665dec2cd76610b3f119b4a3c994}
+      \strng{authorfullhash}{a7168a7ab54484605e44edaa3b3fb288}
+      \strng{authorfullhashraw}{a7168a7ab54484605e44edaa3b3fb288}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play Companion Extended Abstracts}
+      \field{title}{Getting the Player's Attention: Comparing the Effectiveness of Common Notification Types in Task Management Games}
+      \field{year}{2019}
+      \field{pages}{797\bibrangedash 804}
+      \range{pages}{8}
+    \endentry
+    \entry{bogost}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5a129ca46b5d51f245b33508ccb239f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuejiao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{fullhash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{fullhashraw}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{bibnamehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authorbibnamehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authornamehash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authorfullhash}{e5a129ca46b5d51f245b33508ccb239f}
+      \strng{authorfullhashraw}{e5a129ca46b5d51f245b33508ccb239f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ian Bogost, Persuasive Games: The Expressive Power of Videogames}
+      \field{year}{2009}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

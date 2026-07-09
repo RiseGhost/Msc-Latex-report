@@ -1,2 +1,11 @@
 *.aux
 *.log
+*.lof
+*.toc
+*.run.xml
+*.synctex.gz
+*.ind
+*.idx
+*.fls
+*.fdb_latexmk
+*.blg

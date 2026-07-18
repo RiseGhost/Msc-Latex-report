@@ -2,8 +2,7 @@
 
 all: build
 
-build: clean
-	clear
+build:
 	pdflatex tese.tex
 	@echo "Completed!"
 

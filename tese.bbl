@@ -49,6 +49,37 @@
       \field{title}{Fundamentals of game design}
       \field{year}{2014}
     \endentry
+    \entry{Blender}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=482982e64aebd743da9392fbc4b1f5d8}{%
+           family={{Blender}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{fullhash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{fullhashraw}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{bibnamehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authorbibnamehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authornamehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authorfullhash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authorfullhashraw}{482982e64aebd743da9392fbc4b1f5d8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blender}
+      \field{version}{4.x}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.blender.org/
+      \endverb
+      \verb{url}
+      \verb https://www.blender.org/
+      \endverb
+    \endentry
     \entry{flow}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=149727d7f587db70f0357aa137f19ed7}{%
@@ -399,6 +430,37 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2078-2489/11/1/14
+      \endverb
+    \endentry
+    \entry{Unity}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82dd98f1d663acc318e6a8ec4ab69b7a}{%
+           family={{Unity}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{fullhash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{fullhashraw}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{bibnamehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authorbibnamehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authornamehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authorfullhash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authorfullhashraw}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unity}
+      \field{version}{Unity 6}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://unity.com/
+      \endverb
+      \verb{url}
+      \verb https://unity.com/
       \endverb
     \endentry
     \entry{DataCenterDemo}{software}{}{}
@@ -542,6 +604,37 @@
       \field{title}{Fundamentals of game design}
       \field{year}{2014}
     \endentry
+    \entry{Blender}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=482982e64aebd743da9392fbc4b1f5d8}{%
+           family={{Blender}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{fullhash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{fullhashraw}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{bibnamehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authorbibnamehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authornamehash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authorfullhash}{482982e64aebd743da9392fbc4b1f5d8}
+      \strng{authorfullhashraw}{482982e64aebd743da9392fbc4b1f5d8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blender}
+      \field{version}{4.x}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.blender.org/
+      \endverb
+      \verb{url}
+      \verb https://www.blender.org/
+      \endverb
+    \endentry
     \entry{flow}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=149727d7f587db70f0357aa137f19ed7}{%
@@ -892,6 +985,37 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2078-2489/11/1/14
+      \endverb
+    \endentry
+    \entry{Unity}{software}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82dd98f1d663acc318e6a8ec4ab69b7a}{%
+           family={{Unity}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{fullhash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{fullhashraw}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{bibnamehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authorbibnamehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authornamehash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authorfullhash}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \strng{authorfullhashraw}{82dd98f1d663acc318e6a8ec4ab69b7a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unity}
+      \field{version}{Unity 6}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://unity.com/
+      \endverb
+      \verb{url}
+      \verb https://unity.com/
       \endverb
     \endentry
     \entry{DataCenterDemo}{software}{}{}

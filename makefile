@@ -3,7 +3,9 @@
 all: build
 
 build:
-	pdflatex tese.tex
+	latexmk -pdf tese.tex
+	clear
+	ls -la | grep .pdf
 	@echo "Completed!"
 
 clean:

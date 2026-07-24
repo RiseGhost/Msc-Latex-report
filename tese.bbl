@@ -361,6 +361,36 @@
       \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
       \endverb
     \endentry
+    \entry{nielsen1994enhancing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the SIGCHI conference on Human Factors in Computing Systems}
+      \field{title}{Enhancing the explanatory power of usability heuristics}
+      \field{year}{1994}
+      \field{pages}{152\bibrangedash 158}
+      \range{pages}{7}
+    \endentry
     \entry{shay2022scaffolding}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7fb33a9638b064da09c389d6aad1e216}{%
@@ -915,6 +945,36 @@
       \verb{url}
       \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
       \endverb
+    \endentry
+    \entry{nielsen1994enhancing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhashraw}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the SIGCHI conference on Human Factors in Computing Systems}
+      \field{title}{Enhancing the explanatory power of usability heuristics}
+      \field{year}{1994}
+      \field{pages}{152\bibrangedash 158}
+      \range{pages}{7}
     \endentry
     \entry{shay2022scaffolding}{article}{}{}
       \name{author}{2}{}{%

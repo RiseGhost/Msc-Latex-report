@@ -2,7 +2,9 @@
 
 \label{cap5}
 
-Com o objetivo de analisar o projeto desenvolvido, foram aplicados dois formulários: um antes da sessão de jogo e outro após a sua conclusão. O objetivo destes formulários consiste em avaliar se existe um aumento dos conhecimentos dos participantes após a experiência de jogo.
+\todo{Analisar}
+
+Com o objetivo de analisar o projeto desenvolvido, foram aplicados dois formulários: um antes da sessão de jogo e outro após a sua conclusão. O objetivo destes formulários consiste em avaliar se existe um aumento dos conhecimentos dos participantes após a experiência de jogo. O objetivo do jogador durante o teste é chegar até ao 1º ataque de \textit{DDos}.
 
 Em simultâneo, as sessões de jogo de cada participante foram analisadas com o objetivo de identificar padrões de utilização e oportunidades de melhoria ao nível da \ac{UX}. Os dados recolhidos durante estas sessões foram analisados com base nas heurísticas de usabilidade propostas por \textcite{nielsen1994enhancing}, cuja aplicação será detalhada nas subsecções seguintes.
 
@@ -12,23 +14,25 @@ Para além das métricas anteriormente referidas, foram ainda recolhidos dados d
 
 \section{Analise os resultados da gameplay}
 
-Os dados recolhidos das observações das seções de jogo de dos jogadores que participaram nos testes encontrassam analisados
-na tabela \ref{tab:DadosNielsen}.
-
-\begin{table}[h]
+\begin{table}[H]
     \centering
     \begin{tabular}{|p{4.5cm}|c|p{3cm}|p{4.5cm}|}
         \hline
-        Problema & Grau & Heuristica & Solução \\ \hline
+        \textbf{Problema} & \textbf{Grau} & \textbf{Heuristica} & \textbf{Solução} \\ \hline
         Falta de \textit{feedback} no sistema de som & Baixo & Visibilidade do estado do sistema & Adição uma \textit{label} informativa \\ \hline
         Falta de \textit{feedback} nos botões de notificações & Média & Visibilidade do estado do sistema & Adição de instruções mais claras ao lado dos botões \\ \hline
         Controlos do canhão & Elevado & Controlos do utilizador e liberdade / Consitência e padronização & Inverter os commandos \\ \hline
-        Jogador não se lembra como abrir a loja & Elevado & Visibilidade do estado do sistema & Adição de indicativo visual na \ac{UI}. \\ \hline
+        Jogador não se lembra como abrir a loja & Elevado & Reconhecimento em vez de memorização & Adição de indicativo visual na \ac{UI}. \\ \hline
+        Jogador não têm noção da finalidade dos componentes de \textit{hardware} & Elevado & Correspondência entre o sistema e o mundo & Adição de uma label com uma pequena descrição do componente na loja \\ \hline
         Falta de \textit{feedback} na configuração de um \ac{CPU} na tela da loja & Media & Visibilidade do estado do sistema & Adição de uma \textit{label} informativa. \\ \hline
         Falta de \textit{feedback} nos emails & Elevado & Visibilidade do estado do sistema & Adição de um idicador visual, que aparece sempre que existe um email por ler \\ \hline
+        Câmara muito próxima do jogador & Baixo & Controlo e liberdade do jogador & Adição do controlo de zoom da câmara \\ \hline
     \end{tabular}
     \caption{Analise dos problemas usando as heuristicas de Nielsen}
     \label{tab:DadosNielsen}
 \end{table}
+
+Os dados recolhidos das observações das seções de jogo de dos jogadores que participaram nos testes encontrassam analisados
+na tabela \ref{tab:DadosNielsen}.
 
 ...

@@ -361,6 +361,39 @@
       \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
       \endverb
     \endentry
+    \entry{miller2021video}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e227aac4a5a7f8fa21e720e6d270914f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{fullhash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{fullhashraw}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{bibnamehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authorbibnamehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authornamehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authorfullhash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authorfullhashraw}{e227aac4a5a7f8fa21e720e6d270914f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Esports Research and Its Integration in Education}
+      \field{title}{Video Games and Indirect Learning: A Study of 12 Games That Can Teach}
+      \field{year}{2021}
+      \field{pages}{69\bibrangedash 84}
+      \range{pages}{16}
+    \endentry
     \entry{nielsen1994enhancing}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
@@ -945,6 +978,39 @@
       \verb{url}
       \verb https://store.steampowered.com/app/605230/Grey_Hack/?l=portuguese&6omrXkXAee6f8R=ecjb6O
       \endverb
+    \endentry
+    \entry{miller2021video}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e227aac4a5a7f8fa21e720e6d270914f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{fullhash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{fullhashraw}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{bibnamehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authorbibnamehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authornamehash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authorfullhash}{e227aac4a5a7f8fa21e720e6d270914f}
+      \strng{authorfullhashraw}{e227aac4a5a7f8fa21e720e6d270914f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Esports Research and Its Integration in Education}
+      \field{title}{Video Games and Indirect Learning: A Study of 12 Games That Can Teach}
+      \field{year}{2021}
+      \field{pages}{69\bibrangedash 84}
+      \range{pages}{16}
     \endentry
     \entry{nielsen1994enhancing}{article}{}{}
       \name{author}{1}{}{%

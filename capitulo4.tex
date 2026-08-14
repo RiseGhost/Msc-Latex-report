@@ -26,6 +26,7 @@ Posto isto, as ferramentas e tecnologias utilizadas foram:
 \section{Engenharia de Software}
 
 \subsection{Diagrama de sistema de jogo}
+\label{Sec:DiagramaSistemaJogo}
 
 \begin{figure}[H]
     \centering
@@ -82,6 +83,7 @@ Os pontos mais relevantes das funcionalidades apresentadas são:
 \end{itemize}
 
 \subsubsection{Combate}
+\label{Sec:SistemaCombate}
 
 \begin{figure}[H]
     \centering
@@ -161,6 +163,7 @@ desenvolvidos com a ajuda do \textit{software}.
 \newpage
 
 \subsubsection{Canhão}
+\label{Sec:Canhão}
 
 \begin{figure}[H]
      \centering
@@ -309,3 +312,39 @@ O esqueleto do modelo 3D é relevante, pois é através dele que é possível cr
 O esqueleto do personagem foi criado no \textit{website} \textit{Mixamo}, onde também foram retidas as animações de caminhada, corrida e \textit{idle}. 
 
 Após isso, o modelo 3D do personagem, com o esqueleto e as animações, foram importados para a Unity, onde foram feitos ajustes para que as animações pudessem ser reproduzidas de forma fluida e natural.
+
+\subsection{Implementação do sistema de Ataque}
+
+\todo{Revisar}
+O sistema de ataque é responsável por desencadear os ataques ao longo do jogo. Este sistema funciona de forma periódica e constante, sendo responsável pela criação dos ataques e pela instanciação dos inimigos no cenário.
+
+Um novo ataque ocorre sempre que o jogador completa um determinado número de novas tarefas. Cada ataque encontra-se associado a um e-mail, que o jogador é obrigado a ler. O e-mail (ver Subsecção \ref{Sec:Email}) apresenta o ataque e o seu propósito, contribuindo para uma maior integração do mesmo no contexto do jogo. Para além disso, o e-mail pode também ser utilizado como meio para transmitir informação adicional ao jogador.
+
+Durante o período de um ataque, o jogador pode utilizar o canhão (ver Subsecção \ref{Sec:Canhão}) presente no cenário. Para superar o ataque, o jogador terá de destruir todos os inimigos presentes no cenário.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\textwidth]{images/Attack Launch.png}
+\caption{Animação de início do ataque.}
+\label{Launch Attack}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\textwidth]{images/Cannon Aim.png}
+\caption{Mecânica de mira do canhão durante um ataque.}
+\label{Cannon Aim}
+\end{figure}
+
+A Figura \ref{Launch Attack} representa a animação apresentada sempre que se inicia um novo ataque. A principal função desta animação é contextualizar o jogador relativamente ao ataque que se inicia, apresentando o seu nome e permitindo-lhe preparar-se para a invasão. Durante esta animação, o estado do mundo permanece inalterado, garantindo ao jogador um período de preparação antes do início do ataque.
+
+A Figura \ref{Cannon Aim} representa a perspetiva do jogador durante um ataque. Neste contexto, o jogador deixa de controlar diretamente a personagem e passa a controlar o canhão presente no cenário. Na parte superior do ecrã encontra-se uma barra centralizada que representa a percentagem de inimigos que ainda permanecem no cenário. Assim, quanto menor for o valor apresentado, menor será o número de inimigos que falta destruir.
+
+Uma vez que a câmara utilizada neste \textit{minijogo} é a mesma utilizada no restante jogo, sendo esta uma câmara ortográfica, não existe perspetiva nem perceção de profundidade através da escala dos objetos. Esta característica torna a tarefa de apontar mais difícil, pelo que foram implementados mecanismos adicionais para facilitar a mira. Na extremidade do canhão foi adicionado um laser que funciona como auxiliar de mira. Adicionalmente, quando a mira se encontra sobre um inimigo, é apresentado um indicador branco à sua volta, permitindo identificar de forma mais clara o alvo selecionado.
+
+Estas funcionalidades foram implementadas com o objetivo de melhorar a experiência de mira do jogador, compensando a ausência de perspetiva e, consequentemente, a reduzida perceção de profundidade proporcionada pela câmara ortográfica.
+
+Para compreender melhor a forma como o sistema de ataque interage com os restantes sistemas do jogo, podem ser consultadas as Subsecções \ref{Sec:DiagramaSistemaJogo} e \ref{Sec:Canhão}.
+
+
+\todo{Até Aqui}

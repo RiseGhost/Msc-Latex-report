@@ -47,6 +47,7 @@ Esta seção é divida em várias sub seções, onde são analisados os dados re
 \end{itemize}
 
 \subsection{Defenição da amostra}
+\label{Sec:DefAmostra}
 
 A amostra utiliza para realizar um dado teste é facto primário que avalia a qualidade do mesmo, uma vez que se a amostra for muito pequena os resultados derivados dela podem não refletir a relidade de uma dada população (conjunto total de indivíduos ou objectos sobre os quais incide o estudo). Além do seu tamanho, uma boa amostra também deve ser diversas, uma vez que se uma amostra for pouco diversa ela irá gera viés estatísticos.
 
@@ -227,4 +228,63 @@ Deste modo, é possível considerar que os participantes que selecionaram a opç
 
 Ao longo desta sub seção será apresentados e analisados os dados recolhidos durante a seção de jogo de cada jogador.
 
-\todo[inline]{Ainda não está acabado ....}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{images/Gráficos dos testes/Compra de servidor.pdf}
+\caption{Tempo necessário para os jogadores efetuarem a compra do primeiro servidor}
+\label{graph:TempoComprarServidor}
+\end{figure}
+
+A partir dos dados apresentados no gráfico da Figura \ref{graph:TempoComprarServidor}, foram obtidas as estatísticas descritivas apresentadas na Tabela \ref{tab:TempoComprarServidor}.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{l r}
+\textbf{Métrica} & \textbf{Valor} \\ \hline
+Média ($\bar{x}$) & 125,94 \\ \hline
+Desvio padrão ($s$) & 84,88 \\ \hline
+Coeficiente de variação ($CV$) & 67,39\% \\ \hline
+\end{tabular}
+\caption{Estatísticas descritivas do tempo necessário para a compra do primeiro servidor}
+\label{tab:TempoComprarServidor}
+\end{table}
+
+Os resultados apresentados permitem observar uma elevada variabilidade no tempo necessário para os jogadores efetuarem a compra do primeiro servidor. Esta variabilidade é evidenciada pelo coeficiente de variação, que apresenta um valor de 67,39\%. Este valor indica uma dispersão considerável dos resultados relativamente à média, sugerindo diferenças significativas no desempenho dos participantes na realização desta ação.
+
+A elevada variabilidade observada poderá estar relacionada com a heterogeneidade da amostra, nomeadamente com as diferentes experiências, conhecimentos prévios e níveis de familiaridade dos participantes com conceitos relacionados com a informática. Com efeito, alguns dos participantes possuem formação ou experiência na área da informática, o que poderá facilitar a compreensão das mecânicas associadas à compra e gestão de servidores e, consequentemente, contribuir para uma execução mais rápida desta tarefa.
+
+No entanto, esta possível relação deve ser interpretada com alguma cautela, uma vez que os dados apresentados permitem identificar a variabilidade do desempenho, mas não permitem, por si só, estabelecer uma relação causal entre os conhecimentos prévios dos participantes e o tempo necessário para realizar a ação.
+
+A diversidade da amostra, bem como as suas principais características, é apresentada e analisada com maior detalhe na subsecção \ref{Sec:DefAmostra}.
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{images/Gráficos dos testes/Duração do ataque.pdf}
+\caption{Duração do ataque}
+\label{graph:DuractionAtaque}
+\end{figure}
+
+O gráfico apresentado na Figura \ref{graph:DuractionAtaque} representa a duração do ataque para cada jogador, correspondente ao tempo necessário para que cada participante eliminasse todos os inimigos. A partir dos dados apresentados neste gráfico, foram calculadas as estatísticas descritivas apresentadas na Tabela \ref{tab:DuracAtaque}.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{l r}
+\textbf{Métrica} & \textbf{Valor} \\ \hline
+Média ($\bar{x}$) & 85,33 \\ \hline
+Desvio padrão ($s$) & 25,11 \\ \hline
+Coeficiente de variação ($CV$) & 29,42\% \\ \hline
+\end{tabular}
+\caption{Estatísticas descritivas do tempo necessário para concluir o ataque}
+\label{tab:DuracAtaque}
+\end{table}
+
+Neste caso, verifica-se que o coeficiente de variação apresenta um valor de 29,42\%, consideravelmente inferior ao observado nas ações analisadas anteriormente. Este resultado indica uma variabilidade moderada dos tempos registados, sugerindo que o desempenho dos participantes na realização desta tarefa foi relativamente mais consistente.
+
+Uma possível explicação para esta menor variabilidade poderá estar relacionada com a natureza da ação. O \textit{minigame} de ataque apresenta uma mecânica mais direta e abrangente, baseada na eliminação dos inimigos, podendo apresentar maior familiaridade para os jogadores por possuir características semelhantes às encontradas em diversos jogos. Consequentemente, esta maior familiaridade poderá facilitar a compreensão da tarefa e contribuir para uma execução mais consistente entre os participantes.
+
+Importa, contudo, salientar que esta interpretação representa uma possível explicação para os resultados observados, não sendo possível estabelecer uma relação causal apenas com base nas estatísticas descritivas apresentadas.
+
+Para uma descrição mais detalhada do funcionamento e das mecânicas do \textit{minigame} de ataque, consultar a subsecção \ref{Sec:ImplementSistemaAtaque}.
+

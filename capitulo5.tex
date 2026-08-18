@@ -288,3 +288,38 @@ Importa, contudo, salientar que esta interpretação representa uma possível ex
 
 Para uma descrição mais detalhada do funcionamento e das mecânicas do \textit{minigame} de ataque, consultar a subsecção \ref{Sec:ImplementSistemaAtaque}.
 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{images/Gráficos dos testes/Tempo total.pdf}
+\caption{Tempo total que cada jogador demorou para concluir todo até o fim do 1º ataque}
+\label{graph:TempoTotal}
+\end{figure}
+
+Analisado os dados do gráfico da Figura \ref{graph:TempoTotal}, foram calculadas as estatísticas descritivas apresentadas na Tabela \ref{tab:TempoTotal}.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{l r}
+\textbf{Métrica} & \textbf{Valor} \\ \hline
+Média ($\bar{x}$) & 1144,90 \\ \hline
+Desvio padrão ($s$) & 411,01 \\ \hline
+Coeficiente de variação ($CV$) & 35,90\% \\ \hline
+\end{tabular}
+\caption{Estatísticas descritivas do tempo necessário para concluir todo até ao fim do 1º ataque}
+\label{tab:TempoTotal}
+\end{table}
+
+A partir destes dados, pode concluir-se que existe uma variabilidade moderada no contexto geral do jogo, tal como se observa no gráfico. A linha correspondente ao valor médio permite, igualmente, distinguir dois grupos de observações. Esta distribuição é expectável, tendo em conta a diversidade presente na amostra, conforme apresentado na subseção \ref{Sec:DefAmostra}.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{images/Gráficos dos testes/MiniGamesAverageTime.pdf}
+\caption{Média de tempo de cada categoria do \textit{minigame WordRush}}
+\label{graph:WordRushAverageTime}
+\end{figure}
+
+O gráfico apresentado na Figura \ref{graph:WordRushAverageTime} apresenta o tempo médio de cada categoria do \textit{minigame} de palavras (\textit{WordRush}). A coluna "Geral" representa a média dos tempos médios de todas as categorias.
+
+Todas as categorias deste \textit{minigame} apresentam um tempo médio compreendido entre os 30 segundos e 1 minuto e 30 segundos. Tendo em conta a natureza deste \textit{minigame}, este intervalo pode ser considerado positivo. Uma vez que se trata de uma atividade com um caráter de repetição constante, a existência de pequenas variações no tempo necessário para concluir cada tarefa contribui para evitar que a experiência se torne demasiado previsível. Simultaneamente, a duração relativamente reduzida das tarefas evita que o jogador permaneça demasiado tempo numa única atividade, enquanto a variação do tempo permite que cada interação seja ligeiramente diferente da anterior, contribuindo para uma experiência de jogo mais dinâmica.
+
+

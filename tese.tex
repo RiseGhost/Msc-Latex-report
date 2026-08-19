@@ -1,19 +1,17 @@
 \documentclass[12pt,a4paper,openright,twoside]{book}
 
 \usepackage{tese_new}
-\usepackage[portuges]{babel}   %Português 
-\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}   %Português 
 \usepackage{rotating,hyperref,amsfonts,graphicx,amssymb,algorithmic,booktabs}
 \usepackage{algorithm}
 \usepackage{amsmath}
 \usepackage{xspace}
-\usepackage{color,times}
+\usepackage{color}
 \usepackage{fancyhdr}
-\usepackage[T1]{fontenc}
 \usepackage[style=apa, backend=biber]{biblatex}
 \addbibresource{references.bib} % Nome do teu ficheiro .bib
 
-\usepackage[math]{iwona}
+%\usepackage[math]{iwona}
 \usepackage[printonlyused]{acronym}
 \usepackage{float}
 \usepackage{amssymb}
@@ -32,6 +30,10 @@
 \usepackage{multirow}
 \usepackage{url}
 \usepackage{todonotes}
+\usepackage{fontspec}
+\setmainfont{Georgia}
+\setsansfont{Georgia}
+\setmonofont{Georgia}
 %
 \usepackage{subcaption}
 %
@@ -44,8 +46,7 @@
 \def\tamanhoFiguraBi{150pt}
 \def\tamanhoFiguraTri{250pt}
 \def\tamanhoIrisNormalizada{250pt}
-\pdfcompresslevel=9
-\pdfobjcompresslevel=3
+
 
 \renewcommand{\labelitemi}{-}
 \renewcommand{\labelitemii}{\bullet}
@@ -55,7 +56,6 @@
 \raggedbottom
 \begin{document}
 %\fontfamily{tpm}\selectfont
-\fontfamily{cmr}\selectfont
 \frontmatter
 \pagestyle{empty}
 

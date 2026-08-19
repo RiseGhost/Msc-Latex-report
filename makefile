@@ -3,9 +3,9 @@
 all: build
 
 build:
-	latexmk -pdf tese.tex
+	latexmk -xelatex -interaction=nonstopmode -file-line-error tese.tex
 	clear
-	ls -la | grep .pdf
+	ls -la | grep '\.pdf'
 	@echo "Completed!"
 
 clean:

@@ -1,11 +1,45 @@
 %\setcounter{secnumdepth}{+2}
 \chapter{Conclusões e Trabalho Futuro}
-%\chapter{Conclusion and Future Work}
 \label{cap6}
 
+Este capítulo encerra o presente relatório de projeto, apresentando uma síntese das principais conclusões retiradas ao longo do processo de desenvolvimento e avaliação do videojogo. São igualmente detalhadas as principais contribuições resultantes deste trabalho, assim como as linhas de investigação e desenvolvimento futuro que visam dar continuidade ao projeto.
+
+\section{Conclusões}
+\label{sec6_1}
+
+O principal objetivo deste projeto consistiu no design e implementação de um videojogo de simulação e gestão de infraestruturas tecnológicas, que procurou equilibrar o rigor técnico de conceitos reais de computação com o entretenimento e o empenho lúdico do jogador.
+
+Os resultados obtidos através da aplicação de testes com utilizadores e da análise de telemetria permitiram validar a eficácia da abordagem adotada. Em primeiro lugar, demonstrou-se que o jogo foi capaz de transmitir e reforçar conhecimentos técnicos sobre informática e \textit{data centers} de forma orgânica. Verificou-se um aumento notável no reconhecimento de conceitos-chave, tais como a arquitetura de processadores ARM (que passou de $56\%$ para $84\%$), o papel da IBM no desenvolvimento de CPUs para servidores, a importância do sistema operativo Linux e a utilização de \textit{frameworks} (como o Apache) para alojamento \textit{web}.
+
+Em segundo lugar, a avaliação da experiência do utilizador (UX) e do fluxo de jogo (\textit{flow}) comprovou que a inclusão de elementos mecânicos alternativos, como o \textit{minigame} de terminal \textit{WordRush} e os momentos de combate para contenção de ataques cibernéticos (DDoS), desempenhou um papel determinante na quebra da monotonia associada à pura gestão económica. A alternância entre momentos de planeamento estratégico e desafios dinâmicos manteve os jogadores motivados, garantindo um equilíbrio adequado entre desafio e aprendizagem.
+
+Não obstante as limitações identificadas durante os testes de usabilidade, designadamente ao nível da perceção espacial na perspetiva isométrica e da necessidade de otimização de alguns indicadores de \textit{feedback} visual e sonoro, o protótipo funcional desenvolvido atingiu com sucesso as metas propostas, servindo como uma prova de conceito sólida para a utilização de jogos comerciais e casuais como veículos de aprendizagem indireta.
+
 \section{Contribuições}
-...
+\label{sec6_2}
+
+O desenvolvimento do presente projeto de mestrado resultou num conjunto de contribuições práticas, concetuais e técnicas na área do design e desenvolvimento de jogos digitais aplicados à simulação tecnológica:
+
+\begin{itemize}
+    \item \textbf{Protótipo Funcional e Integrado:} Desenvolvimento de um videojogo 3D funcional na \textit{engine} Unity, integrando sistemas complexos de economia contínua em tempo real, simulação de parâmetros energéticos (Watts) e capacidade de processamento (TFLOPS), e mecânicas de combate dinâmico.
+    \item \textbf{\textit{Framework} de Aprendizagem Indireta em Sistemas de TI:} Conceção e validação de um modelo de design de jogo que traduz infraestruturas e conceitos teóricos de redes, \textit{hardware} e sistemas operativos em mecânicas lúdicas envolventes, comprovando a eficácia da transmissão de conhecimento técnico sem comprometer a vertente recreativa.
+    \item \textbf{Recursos de Arte 3D e Animação 2D Original:} Criação de um conjunto de \textit{assets} tridimensionais (modelos do cenário, \textit{racks} de servidores, equipamento de rede e canhão) constuidos no Blender, combinados com um fluxo de trabalho inovador que envolveu ferramentas de Inteligência Artificial e a \textit{framework} Processing para animação 2D e \ac{VFX} visuais.
+    \item \textbf{Mecânica Adaptativa de Terminal (WordRush):} Design e implementação do \textit{minigame} \textit{WordRush}, que simula a execução de comandos de terminal com base em \textit{typing}, adaptando dinamicamente a pontuação, sintaxe e vocabulário ao tipo de tarefa contratada pelos clientes no jogo.
+    \item \textbf{Estudo de Avaliação e Telemetria:} Análise detalhada do comportamento do utilizador através da integração com o Google Firebase, combinada com formulários antes e após o jogo e avaliação heurística de Nielsen, disponibilizando dados empíricos sobre a retenção de conhecimento e padrões de usabilidade em simuladores de TI.
+\end{itemize}
 
 \section{Trabalho Futuro}
+\label{sec6_3}
 
-...
+Embora o protótipo desenvolvido tenha cumprido com êxito os objetivos propostos para esta dissertação, identificam-se diversas oportunidades de expansão e melhoria que podem ser exploradas em trabalhos futuros:
+
+\begin{itemize}
+    \item \textbf{Implementação do Sistema de Progressão Narrativa:} Integrar na totalidade a narrativa idealizada no conceito inicial, incluindo a obtenção da chave criptográfica de controlo do tempo como recompensa final ao atingir o nível máximo de expansão do \textit{data center}.
+    \item \textbf{Aprofundamento do Sistema de RPG e Personagens:} Evoluir o sistema de combate atual (baseado na mecânica do canhão e eliminação de \textit{drones}) para o modelo original inspirado em jogos RPG, introduzindo \textit{builds} de equipamentos, atributos técnicos (largura de banda, algoritmos de encriptação, capacidade de processamento) e árvores de competências.
+    \item \textbf{Área de Customização e Troféus (Área 2):} Concluir a implementação da Área 2 do \textit{level design}, permitindo ao jogador personalizar o espaço físico do \textit{data center}, adquirir elementos decorativos e exibir conquistas/troféus alcançados ao longo do progresso no jogo.
+    \item \textbf{Complexidade Adicional na Simulação Económica e Ambiental:} Introduzir variáveis de gestão avançadas que foram simplificadas nesta versão, nomeadamente a gestão individualizada de sistemas de arrefecimento (CRACs/corredores quentes e frios), custos de abastecimento de água, largura de banda de internet contratada e redundância de energia (UPS e geradores).
+    \item \textbf{Melhorias de Usabilidade e Acessibilidade (UX/UI):} Corrigir os problemas identificados no estudo qualitativo de UX (Tabela 5.1), aperfeiçoando os controlos e indicação de mira do canhão, ajustando a câmara ortográfica com zoom dinâmico e adicionando indicadores visuais e sonoros persistentes para notificações de e-mail e atalhos de teclado.
+    \item \textbf{Expansão da Variedade de Ataques Cibernéticos:} Introduzir novos tipos de ameaças de segurança no ecossistema de jogo, tais como ataques de \textit{Ransomware}, \textit{Phishing} ou usurpação de portas de rede, ampliando a variedade de \textit{puzzles} e reforçando a literacia em cibersegurança dos utilizadores.
+\end{itemize}
+
+

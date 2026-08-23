@@ -39,7 +39,7 @@ A Figura \ref{Diagrama_Sistema_Jogo} apresenta o diagrama de sistema do jogo, on
 Como é observável, todos os sistemas interagem com o sistema de economia, uma vez que esse sistema está fortemente ligado com a condição de derrota.
 Além disso, é observável que o único sistema que permite com que o jogador ganhe dinheiro é o sistema de tarefas, o que faz com que seja através dele que o jogador consiga progredir no jogo, e como tal é o sistema que o jogador interage mais durante o jogo.
 
-No diagrama, é possível observar que no sistema de combate, existe uma recompensa para o jogador. Embora essa recompensa faça parte da idealização do sistema de combate, ela não foi implementada, devido à complexidade.
+No diagrama, é possível observar que no sistema de combate, existe uma recompensa para o jogador.
 
 \newpage
 
@@ -319,7 +319,7 @@ Após isso, o modelo 3D do personagem, com o esqueleto e as animações, foram i
 \todo{Revisar}
 O sistema de ataque é responsável por desencadear os ataques ao longo do jogo. Este sistema funciona de forma periódica e constante, sendo responsável pela criação dos ataques e pela instanciação dos inimigos no cenário.
 
-Um novo ataque ocorre sempre que o jogador completa um determinado número de novas tarefas. Cada ataque encontra-se associado a um e-mail, que o jogador é obrigado a ler. O e-mail (ver Subsecção \ref{Sec:Email}) apresenta o ataque e o seu propósito, contribuindo para uma maior integração do mesmo no contexto do jogo. Para além disso, o e-mail pode também ser utilizado como meio para transmitir informação adicional ao jogador.
+Um novo ataque ocorre sempre que o jogador completa um determinado número de novas tarefas. Cada ataque encontra-se associado a um e-mail, que o jogador é obrigado a ler. O e-mail (ver Subsecção \ref{Sec:Email}) apresenta o ataque e o seu propósito, contribuindo para uma maior integração do mesmo no contexto do jogo. Para além disso, o e-mail pode também ser utilizado como meio para transmitir informação adicional ao jogador. O e-mail também atua como \textit{trigger} para a ação, enquanto o jogador não ler o e-mail o estado do jogo não se altera.
 
 Durante o período de um ataque, o jogador pode utilizar o canhão (ver Subsecção \ref{Sec:Canhão}) presente no cenário. Para superar o ataque, o jogador terá de destruir todos os inimigos presentes no cenário.
 

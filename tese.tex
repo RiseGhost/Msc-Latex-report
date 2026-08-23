@@ -106,4 +106,23 @@
 
 %\renewcommand{\bibname}{References}
 \printbibliography
+
+\appendix
+
+\chapter{Anexo}
+
+% Anexo A
+\includepdf[
+  pages=-,
+  pagecommand={\refstepcounter{section}\label{Anexo:antes_jogo}},
+  scale=0.8
+]{./forms/before.pdf}
+
+% Anexo B
+\includepdf[
+  pages=-,
+  pagecommand={\refstepcounter{section}\label{Anexo:depois_jogo}},
+  scale=0.8
+]{./forms/after.pdf}
+
 \end{document}

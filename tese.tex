@@ -109,12 +109,14 @@
 
 \appendix
 
-\chapter{Anexo}
+\chapter{Anexos}
 
 % Anexo A
 \includepdf[
   pages=-,
-  pagecommand={\refstepcounter{section}\label{Anexo:antes_jogo}},
+  pagecommand={
+    \refstepcounter{section}\label{Anexo:antes_jogo}
+  },
   scale=0.8
 ]{./forms/before.pdf}
 

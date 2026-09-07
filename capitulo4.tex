@@ -316,7 +316,6 @@ Após isso, o modelo 3D do personagem, com o esqueleto e as animações, foram i
 \subsection{Implementação do sistema de Ataque}
 \label{Sec:ImplementSistemaAtaque}
 
-\todo{Revisar}
 O sistema de ataque é responsável por desencadear os ataques ao longo do jogo. Este sistema funciona de forma periódica e constante, sendo responsável pela criação dos ataques e pela instanciação dos inimigos no cenário.
 
 Um novo ataque ocorre sempre que o jogador completa um determinado número de novas tarefas. Cada ataque encontra-se associado a um e-mail, que o jogador é obrigado a ler. O e-mail (ver Subsecção \ref{Sec:Email}) apresenta o ataque e o seu propósito, contribuindo para uma maior integração do mesmo no contexto do jogo. Para além disso, o e-mail pode também ser utilizado como meio para transmitir informação adicional ao jogador. O e-mail também atua como \textit{trigger} para a ação, enquanto o jogador não ler o e-mail o estado do jogo não se altera.
@@ -347,9 +346,6 @@ Estas funcionalidades foram implementadas com o objetivo de melhorar a experiên
 
 Para compreender melhor a forma como o sistema de ataque interage com os restantes sistemas do jogo, podem ser consultadas as Subsecções \ref{Sec:DiagramaSistemaJogo} e \ref{Sec:Canhão}.
 
-
-\todo{Até Aqui}
-
 \subsection{Implementação do \textit{WordRush}}
 \label{Sec:WordRush}
 
@@ -360,7 +356,7 @@ O objetivo deste \textit{minigame} é simular um terminal no qual o jogador deve
 
 Como pode ser observado na Figura \ref{WordRush Current}, a interface do \textit{WordRush} encontra-se dividida em três áreas principais. A área central direita corresponde à zona onde as palavras surgem e se deslocam pelo ecrã. Na zona inferior direita encontra-se o campo de introdução, onde o jogador escreve as palavras apresentadas. Por sua vez, a área lateral esquerda apresenta os comandos que foram introduzidos pelo jogador, acompanhados de uma breve descrição da função de cada um.
 
-As palavras apresentadas ao jogador variam de acordo com o tipo de tarefa que está a ser executada, sendo igualmente atribuída uma pontuação (\textit{score}) distinta consoante as palavras ou comandos introduzidos. Desta forma, o \textit{WordRush} adapta a sua jogabilidade ao contexto da tarefa, permitindo representar diferentes tipos de atividades através de uma mesma mecânica de interação.
+As palavras apresentadas ao jogador variam de acordo com o tipo de tarefa que está a ser executada, sendo igualmente atribuída uma pontuação (\textit{score}) distinta consoante as palavras ou comandos introduzidos (ver Figura \ref{WordRush Finished}) . Desta forma, o \textit{WordRush} adapta a sua jogabilidade ao contexto da tarefa, permitindo representar diferentes tipos de atividades através de uma mesma mecânica de interação.
 
 \begin{figure}[H]
 \centering

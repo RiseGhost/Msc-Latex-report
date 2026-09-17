@@ -349,12 +349,11 @@ Para compreender melhor a forma como o sistema de ataque interage com os restant
 \subsection{Implementação do \textit{WordRush}}
 \label{Sec:WordRush}
 
-\todo{Revisar}
 O \textit{WordRush} é o principal \textit{minigame} presente no projeto, uma vez que é responsável por simular a execução das tarefas. A sua utilização ocorre como consequência direta da aceitação de uma tarefa, que é comunicada ao jogador através de uma notificação (consultar a Secção \ref{Sec:Notify} para mais informações sobre o sistema de notificações).
 
 O objetivo deste \textit{minigame} é simular um terminal no qual o jogador deve escrever um conjunto de palavras que surgem no ecrã e que, quando corretamente introduzidas, permitem a execução de comandos. Estes comandos estão diretamente relacionados com o tipo de tarefa previamente aceite pelo jogador. Em termos visuais, a interface foi inspirada no ambiente gráfico \textit{GNOME} (ver Subsecção \ref{Sec:ReferenciasReais}) e no jogo \textit{Grey Hack} (ver Subsecção \ref{Sec:GreyHack}).
 
-Como pode ser observado na Figura \ref{WordRush Current}, a interface do \textit{WordRush} encontra-se dividida em três áreas principais. A área central direita corresponde à zona onde as palavras surgem e se deslocam pelo ecrã. Na zona inferior direita encontra-se o campo de introdução, onde o jogador escreve as palavras apresentadas. Por sua vez, a área lateral esquerda apresenta os comandos que foram introduzidos pelo jogador, acompanhados de uma breve descrição da função de cada um.
+Como pode ser observado na Figura \ref{WordRush Current}, a interface do \textit{WordRush} encontra-se dividida em três áreas principais. A área central direita corresponde à zona onde as palavras surgem e se deslocam pelo ecrã. Na zona inferior direita encontra-se o campo de introdução de texto, onde o jogador escreve as palavras apresentadas. Por sua vez, a área lateral esquerda apresenta os comandos que foram introduzidos pelo jogador, acompanhados de uma breve descrição da função de cada um.
 
 As palavras apresentadas ao jogador variam de acordo com o tipo de tarefa que está a ser executada, sendo igualmente atribuída uma pontuação (\textit{score}) distinta consoante as palavras ou comandos introduzidos (ver Figura \ref{WordRush Finished}) . Desta forma, o \textit{WordRush} adapta a sua jogabilidade ao contexto da tarefa, permitindo representar diferentes tipos de atividades através de uma mesma mecânica de interação.
 
@@ -371,5 +370,3 @@ As palavras apresentadas ao jogador variam de acordo com o tipo de tarefa que es
 \caption{Tela final do \textit{minigame WordRush}.}
 \label{WordRush Finished}
 \end{figure}
-
-\todo{Aqui}

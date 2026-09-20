@@ -57,7 +57,7 @@ A 1º etapa representa os primeiros momentos do jogo, onde o jogador está a apr
 e a preceber o que tem de fazer para progredir, como tal é representa por uma curva crescente.
 
 A 2º etapa é caracterizada pela adptação do jogador às mecânicas introduzidas na etapa anterior,
-como tal a curva de \textit{flow} começa a descer, uma vez que devida a adaptação do jogador, o desafio se torna mais fácil.
+como tal existe um afastamento da zona de \textit{flow}, uma vez que devida a adaptação do jogador, o desafio se torna mais fácil.
 
 A 3º etapa representa a habituação do jogador às mecânicas, assim como a repetição de desafios semelhantes,
 o que leva a uma curva de \textit{flow} com um declive negativo, uma vez que o jogador começa
@@ -76,7 +76,7 @@ curva de \textit{flow} mais estável e menos propensa a declives acentuados.
 
 Em suma, a progressão do jogo utiliza a alternância entre a introdução de novos 
 desafios e períodos de adaptação para modular a experiência do utilizador. Ao gerir 
-estas cinco etapas, o design garante que o jogador no estado de \textit{Flow}, 
+estas cinco etapas, o design procura favorecer a manutenção do jogador numa zona de \textit{flow}, 
 equilibrando a curva de aprendizagem com momentos de novidade, assegurando assim uma 
 experiência envolvente, fluida e recompensadora do início ao fim.
 
@@ -106,7 +106,7 @@ pelos seguintes elementos:
 
 Alguns elementos presente no modelo assim, como troféus e melhoramento de equipamentos (tanto 
 de servidores como de armas), estão presente no conceito de design do jogo, no entanto,
-não estão contenplados no projeto desenvolvido, uma vez que não eram o foco principal e
+não estão contemplados no projeto desenvolvido, uma vez que não eram o foco principal e
 não existiu tempo suficiente para a sua implementação.
 
 \section{Decisões de Design}
@@ -293,7 +293,7 @@ Neste sentido, houve uma pesquisa prévia sobre a estrutura física de um data c
 \end{figure}
 
 Analisando o cenário da Figura \ref{FloorCenarioViewPort} é possível observar a presença de umas caixas no chão, que apresenta algumas perfurações, estas caixas têm como finalidade representar o pavimento técnico ou pavimento elevado, representado na Figura \ref{PavimentoTecnico}, que é um elemento comum em data centers, e tem a função de permitir a passagem de cabos e sistemas de refrigeração, além de facilitar o acesso aos equipamentos instalados no chão do data center.
-A representação no jogo é uma adaptação do pavimento técnico real, onde as caixas foram simplificadas, e a fiação de cabos fui desconsiderada. A sua localização no cenário, também serve de marcação para o jogador, uma vez que sempre que existe a compra de um novo servidor, o mesmo é colocado atrás de uma dessas caixas.
+A representação no jogo é uma adaptação do pavimento técnico real, onde as caixas foram simplificadas, e a fiação de cabos foi desconsiderada. A sua localização no cenário, também serve de marcação para o jogador, uma vez que sempre que existe a compra de um novo servidor, o mesmo é colocado atrás de uma dessas caixas.
 
 \begin{figure}[H]
     \centering
@@ -362,9 +362,9 @@ A representação de servidores no jogo, assim como se pode ver na Figura \ref{S
     \label{UI_Gnome}
 \end{figure}
 
-Por fim, além de elementos gráficos de cenário, elementos de \textit{UI}, tais como a interface de configuração de um sistema operativo, foram igualmente inspirados em referência reais.
+Por fim, além de elementos gráficos de cenário, elementos de \textit{UI}, tais como a interface de configuração de um sistema operativo, foram igualmente inspirados em referências reais.
 Na Figura \ref{UI_Gnome} (do lado direito) é mostrado a interface gráfica Gnome, que é um ambiente gráfico vastamente utilizado em sistemas operativos Linux, embora a sua utilização em data centers não seja tão comum, ainda assim, é bastante dissolvida no ambiente de tecnologia.
-Devia a ser uma interface gráfica mais amigável e intuitiva, servi como inspiração para a construção da interface vista na Figura \ref{UI_Gnome} (do lado esquerdo).
+Por apresentar uma interface gráfica mais acessível e intuitiva, o ambiente GNOME serviu de referência para a construção da interface vista na Figura \ref{UI_Gnome} (do lado esquerdo).
 
 \section{Desenvolvimento do conceito de jogo}
 
@@ -452,14 +452,14 @@ Sendo assim as únicas despesas presentes tais como:
     \item Custos relacionados com a compra de equipamentos.
 \end{itemize}
 
-Todavia, creio que o sistema de economia presente cumpre a função de transmitir
+Todavia, o sistema de economia presente cumpre a função de transmitir
 a ideia real de gestão de recursos, além de proporcionar um gancho de interesse para
 o jogador voltar a entrar no jogo, com o intuito de receber os pagamentos pendentes.
 
 \subsection{Sistema de combate}
 
 O conceito do jogo conta com uma componente de combate, onde o jogador teria
-a sua disposição um sistema de combate e \textit{buids} semelhantes a jogos de \ac{RPG},
+a sua disposição um sistema de combate e \textit{builds} semelhantes a jogos de \ac{RPG},
 mas adaptado ao contexto do jogo. Ou seja, os atributos de ataque, defesa,
 velocidade, etc, seriam substituídos por atributos relacionados com o 
 contexto do jogo, como, por exemplo, poder de processamento, largura de banda,

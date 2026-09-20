@@ -22,7 +22,7 @@ Para além das métricas anteriormente referidas, foram ainda recolhidos dados d
         Controlos do canhão & Elevado & Controlos do utilizador e liberdade / Consitência e padronização & Inverter os commandos \\ \hline
         Jogador não se lembra como abrir a loja & Elevado & Reconhecimento em vez de memorização & Adição de indicativo visual na \ac{UI}. \\ \hline
         Jogador não têm noção da finalidade dos componentes de \textit{hardware} & Elevado & Correspondência entre o sistema e o mundo & Adição de uma label com uma pequena descrição do componente na loja \\ \hline
-        Falta de \textit{feedback} na configuração de um \ac{CPU} na tela da loja & Media & Visibilidade do estado do sistema & Adição de uma \textit{label} informativa. \\ \hline
+        Falta de \textit{feedback} na configuração de um \ac{CPU} na tela da loja & Média & Visibilidade do estado do sistema & Adição de uma \textit{label} informativa. \\ \hline
         Falta de \textit{feedback} nos emails & Elevado & Visibilidade do estado do sistema & Adição de um idicador visual, que aparece sempre que existe um email por ler \\ \hline
         Câmara muito próxima do jogador & Baixo & Controlo e liberdade do jogador & Adição do controlo de zoom da câmara \\ \hline
     \end{tabular}
@@ -32,6 +32,14 @@ Para além das métricas anteriormente referidas, foram ainda recolhidos dados d
 
 Os dados recolhidos das observações das seções de jogo dos jogadores que participaram nos testes encontram-se analisados
 na Tabela \ref{tab:DadosNielsen}.
+
+Os valores utilizados na coluna "Grau" da Tabela \ref{tab:DadosNielsen} correspondem às seguintes classificações de severidade:
+\begin{itemize}
+    \item \textbf{Baixo:} Não teve impacto direto na \textit{gameplay};
+    \item \textbf{Média:} Têm um impacto reduzido na \textit{gameplay}, mas sem impedir o progresso;
+    \item \textbf{Elevado:} Têm um impacto elevado na \textit{gameplay}, e pode travar o progresso.
+\end{itemize}
+
 
 \section{Análise dos dados}
 
@@ -92,7 +100,7 @@ A partir da Tabela \ref{tab:Conhecemintos}, conclui-se que 52\% da amostra possu
     \label{graph:Numero_Horas_Semanais}
 \end{figure}
 
-A partir do gráfico apresentado na Figura \ref{graph:Numero_Horas_Semanais}, verifica-se que a amostra é constituída por jogadores com diferentes níveis de horas de jogo por semana. Esta variedade poderá influenciar os resultados obtidos, sobretudo ao nível da \ac{UX}, uma vez que os jogadores que dedicam mais horas aos videojogos tendem a desenvolver um repertório mais alargado de experiências e referências neste domínio. Consequentemente, poderão apresentar uma maior facilidade de adaptação quando confrontados com novos cenários, neste caso, um novo videojogo.
+A partir do gráfico apresentado na Figura \ref{graph:Numero_Horas_Semanais}, verifica-se que a amostra é constituída por jogadores com diferentes níveis de horas de jogo por semana. Esta variedade poderá influenciar os resultados obtidos, sobretudo ao nível da \ac{UX}, uma vez que existe a hipótese de que jogadores que dedicam mais horas aos videojogos tendem a desenvolver um repertório mais alargado de experiências e referências neste domínio. Consequentemente, poderão apresentar uma maior facilidade de adaptação quando confrontados com novos cenários, neste caso, um novo videojogo.
 
 \subsection{Análise do conhecimento transmitido}
 
@@ -137,7 +145,7 @@ Um resultado particularmente interessante é a diminuição do reconhecimento da
 
 Embora a IBM já não comercialize diretamente os seus processadores ao público em geral, como acontecia no século passado, a empresa continua a desenvolver tecnologias de processamento destinadas a aplicações específicas, nomeadamente para servidores utilizados em \textit{data centers}. A Tabela \ref{tab:IBM} evidencia um aumento significativo no reconhecimento da IBM como desenvolvedora de \ac{CPU} por parte dos jogadores após a sua participação no jogo.
 
-Segundo a Tabela \ref{tab:IBM}, a base de jogadores que reconhecia a IBM como marca de \ac{CPU}, sobe de apenas 8\% da amostra para 48\% da amostra. O que resulta num incremento de 40\%.
+Segundo a Tabela \ref{tab:IBM}, a base de jogadores que reconhecia a IBM como marca de \ac{CPU}, sobe de apenas 8\% da amostra para 48\% da amostra. O que resulta num incremento de 40 pontos percentuais.
 
 \begin{table}[H]
     \centering
@@ -152,7 +160,7 @@ Segundo a Tabela \ref{tab:IBM}, a base de jogadores que reconhecia a IBM como ma
 
 Dada a natureza da amostra, mais de metade dos indivíduos que participaram nos testes possuem formação superior na área da informática, o que contribui para que já possuam conhecimentos prévios sobre o Linux. Ainda assim, é possível observar um ligeiro aumento no número de indivíduos que reconhecem o Linux como sistema operativo após terem jogado o jogo, conforme apresentado na Tabela \ref{tab:Linux}.
 
-A Tabela \ref{tab:Linux} mostra que o conhecimento do Linux por parte dos jogadores sube de 76\% da amostra para 88\% da amostra após o jogo. O que resulta num incremento de 12\%.
+A Tabela \ref{tab:Linux} mostra que o conhecimento do Linux por parte dos jogadores sube de 76\% da amostra para 88\% da amostra após o jogo. O que resulta num incremento de 12 pontos percentuais.
 
 \begin{figure}[H]
     \centering
@@ -181,7 +189,7 @@ Assim, embora se tenha verificado um aumento de 12\% nas respostas incorretas, o
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{images/Gráficos dos testes/email.pdf}
-    \caption{Resposta á pregunta: "É possivel uma pessoa comun criar um serviço de email".}
+    \caption{Resposta á pregunta: "É possivel uma pessoa comum criar um serviço de email".}
     \label{graph:Email}
 \end{figure}
 
@@ -216,7 +224,7 @@ Para além disso, a instalação de software através do terminal poderá consti
     \label{graph:Ataques}
 \end{figure}
 
-As respostas consideradas corretas no gráfico da Figura~\ref{graph:Ataques} são \textit{DDoS} e \textit{Ransomware}. A análise dos dados apresentados permite verificar uma diminuição de 100\% no número de respostas incorretas após a aplicação do jogo. Para além disso, verifica-se que a única resposta que registou um aumento no número de escolhas por parte dos participantes foi \textit{DDoS}. Neste caso, o número de respostas aumentou de 17, antes da realização do jogo, para 24 após a sua realização, o que corresponde a um aumento de aproximadamente 41,18\%.
+As respostas consideradas corretas no gráfico da Figura~\ref{graph:Ataques} são \textit{DDoS} e \textit{Ransomware}. A análise dos dados apresentados permite verificar que as respostas incorretas registadas antes da sessão deixaram de ser selecionadas após o jogo. Para além disso, verifica-se que a única resposta que registou um aumento no número de escolhas por parte dos participantes foi \textit{DDoS}. Neste caso, o número de respostas aumentou de 17, antes da realização do jogo, para 24 após a sua realização, o que corresponde a um aumento de aproximadamente 41,18\%.
 
 Em contrapartida, a opção \textit{Ransomware} não registou qualquer alteração no número de respostas entre os dois momentos de avaliação. Este resultado poderá estar relacionado tanto com as características da amostra como com os conteúdos abordados no jogo. Por um lado, o único tipo de ataque informático diretamente abordado no jogo é o ataque \textit{DDoS}, o que poderá explicar o aumento significativo de respostas associado a esta opção. Por outro lado, a presença de participantes com conhecimentos técnicos na área das tecnologias de informação poderá ter contribuído para a manutenção do número de respostas associadas ao \textit{Ransomware}.
 
@@ -307,7 +315,7 @@ Coeficiente de variação ($CV$) & 35,90\% \\ \hline
 \label{tab:TempoTotal}
 \end{table}
 
-A partir destes dados, pode concluir-se que existe uma variabilidade moderada no contexto geral do jogo, tal como se observa no gráfico. A linha correspondente ao valor médio permite, igualmente, distinguir dois grupos de observações. Esta distribuição é expectável, tendo em conta a diversidade presente na amostra, conforme apresentado na subseção \ref{Sec:DefAmostra}.
+A partir destes dados, pode concluir-se que existe uma variabilidade moderada no contexto geral do jogo, tal como se observa no gráfico. A linha correspondente ao valor médio permite, separar igualmente a amostra em dois lados distintos. Esta distribuição é expectável, tendo em conta a diversidade presente na amostra, conforme apresentado na subseção \ref{Sec:DefAmostra}.
 
 \begin{figure}[H]
 \centering
